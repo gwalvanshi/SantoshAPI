@@ -1,0 +1,180 @@
+D:\GlobalEduERP\DAL\bin\Debug\GEE.DataAccess.dll.config
+D:\GlobalEduERP\DAL\bin\Debug\GEE.DataAccess.dll
+D:\GlobalEduERP\DAL\bin\Debug\GEE.DataAccess.pdb
+D:\GlobalEduERP\DAL\bin\Debug\AutoMapper.dll
+D:\GlobalEduERP\DAL\bin\Debug\EntityFramework.dll
+D:\GlobalEduERP\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\GlobalEduERP\DAL\bin\Debug\GEE.Business.Model.dll
+D:\GlobalEduERP\DAL\bin\Debug\GEE.Common.dll
+D:\GlobalEduERP\DAL\bin\Debug\System.ValueTuple.dll
+D:\GlobalEduERP\DAL\bin\Debug\GEE.Business.Model.pdb
+D:\GlobalEduERP\DAL\bin\Debug\GEE.Common.pdb
+D:\GlobalEduERP\DAL\bin\Debug\AutoMapper.pdb
+D:\GlobalEduERP\DAL\bin\Debug\AutoMapper.xml
+D:\GlobalEduERP\DAL\bin\Debug\EntityFramework.xml
+D:\GlobalEduERP\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\GlobalEduERP\DAL\bin\Debug\System.ValueTuple.xml
+D:\GlobalEduERP\DAL\obj\Debug\GEE.DataAccess.csprojAssemblyReference.cache
+D:\GlobalEduERP\DAL\obj\Debug\GEE.DataAccess.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP\DAL\obj\Debug\GEE.DataAccess.csproj.CopyComplete
+D:\GlobalEduERP\DAL\obj\Debug\GEE.DataAccess.dll
+D:\GlobalEduERP\DAL\obj\Debug\GEE.DataAccess.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll.config
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\bin\Debug\AutoMapper.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Business.Model.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Common.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\bin\Debug\System.ValueTuple.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Business.Model.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Common.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\bin\Debug\AutoMapper.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\bin\Debug\AutoMapper.xml
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.xml
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\bin\Debug\System.ValueTuple.xml
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csprojAssemblyReference.cache
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CopyComplete
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csprojAssemblyReference.cache
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll.config
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Business.Model.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Common.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\bin\Debug\System.ValueTuple.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\bin\Debug\NLog.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Business.Model.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Common.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\bin\Debug\System.ValueTuple.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\bin\Debug\NLog.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CopyComplete
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.pdb
+D:\gg\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll.config
+D:\gg\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll
+D:\gg\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.pdb
+D:\gg\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.dll
+D:\gg\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\gg\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Business.Model.dll
+D:\gg\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Common.dll
+D:\gg\GlobalEduERP\GEE.DataAccess\bin\Debug\System.ValueTuple.dll
+D:\gg\GlobalEduERP\GEE.DataAccess\bin\Debug\NLog.dll
+D:\gg\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Business.Model.pdb
+D:\gg\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Common.pdb
+D:\gg\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.xml
+D:\gg\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\gg\GlobalEduERP\GEE.DataAccess\bin\Debug\System.ValueTuple.xml
+D:\gg\GlobalEduERP\GEE.DataAccess\bin\Debug\NLog.xml
+D:\gg\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csprojAssemblyReference.cache
+D:\gg\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CoreCompileInputs.cache
+D:\gg\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CopyComplete
+D:\gg\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.dll
+D:\gg\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll.config
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.dll
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Business.Model.dll
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Common.dll
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\System.ValueTuple.dll
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\NLog.dll
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Business.Model.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Common.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.xml
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\System.ValueTuple.xml
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\NLog.xml
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csprojAssemblyReference.cache
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CoreCompileInputs.cache
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CopyComplete
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.dll
+C:\GEE\Dev\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll.config
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Business.Model.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Common.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\System.ValueTuple.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\NLog.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Business.Model.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Common.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\System.ValueTuple.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\NLog.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csprojAssemblyReference.cache
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CoreCompileInputs.cache
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CopyComplete
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll.config
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Business.Model.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Common.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\System.ValueTuple.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\NLog.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Business.Model.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Common.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\System.ValueTuple.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\bin\Debug\NLog.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csprojAssemblyReference.cache
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CopyComplete
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.pdb
+D:\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll.config
+D:\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll
+D:\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.pdb
+D:\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.dll
+D:\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Business.Model.dll
+D:\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Common.dll
+D:\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\System.ValueTuple.dll
+D:\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\NLog.dll
+D:\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Business.Model.pdb
+D:\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Common.pdb
+D:\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.xml
+D:\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\System.ValueTuple.xml
+D:\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\NLog.xml
+D:\GEE New\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csprojAssemblyReference.cache
+D:\GEE New\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CoreCompileInputs.cache
+D:\GEE New\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csproj.CopyComplete
+D:\GEE New\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.dll
+D:\GEE New\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll.config
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.DataAccess.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Business.Model.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Common.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\System.ValueTuple.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\NLog.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Business.Model.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\GEE.Common.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\System.ValueTuple.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\bin\Debug\NLog.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.csprojResolveAssemblyReference.cache
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.DataAccess\obj\Debug\GEE.DataAccess.pdb

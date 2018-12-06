@@ -1,0 +1,208 @@
+D:\GlobalEduERP\BusinessManager\bin\Debug\GEE.Business.Manager.dll
+D:\GlobalEduERP\BusinessManager\bin\Debug\GEE.Business.Manager.pdb
+D:\GlobalEduERP\BusinessManager\bin\Debug\GEE.Business.Interface.dll
+D:\GlobalEduERP\BusinessManager\bin\Debug\GEE.Business.Model.dll
+D:\GlobalEduERP\BusinessManager\bin\Debug\GEE.Common.dll
+D:\GlobalEduERP\BusinessManager\bin\Debug\GEE.DataAccess.dll
+D:\GlobalEduERP\BusinessManager\bin\Debug\EntityFramework.dll
+D:\GlobalEduERP\BusinessManager\bin\Debug\GEE.Business.Interface.pdb
+D:\GlobalEduERP\BusinessManager\bin\Debug\GEE.Business.Model.pdb
+D:\GlobalEduERP\BusinessManager\bin\Debug\GEE.Common.pdb
+D:\GlobalEduERP\BusinessManager\bin\Debug\GEE.DataAccess.pdb
+D:\GlobalEduERP\BusinessManager\bin\Debug\GEE.DataAccess.dll.config
+D:\GlobalEduERP\BusinessManager\bin\Debug\EntityFramework.xml
+D:\GlobalEduERP\BusinessManager\obj\Debug\GEE.Business.Manager.csprojAssemblyReference.cache
+D:\GlobalEduERP\BusinessManager\obj\Debug\GEE.Business.Manager.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP\BusinessManager\obj\Debug\GEE.Business.Manager.csproj.CopyComplete
+D:\GlobalEduERP\BusinessManager\obj\Debug\GEE.Business.Manager.dll
+D:\GlobalEduERP\BusinessManager\obj\Debug\GEE.Business.Manager.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Manager.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Manager.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Interface.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Model.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Common.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\bin\Debug\EntityFramework.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Interface.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Model.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Common.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.dll.config
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\bin\Debug\EntityFramework.xml
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csprojAssemblyReference.cache
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csproj.CopyComplete
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csprojAssemblyReference.cache
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Manager.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Manager.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Interface.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Model.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Common.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\System.ValueTuple.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\NLog.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\EntityFramework.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Interface.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Model.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Common.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.dll.config
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\System.ValueTuple.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\NLog.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\bin\Debug\EntityFramework.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csproj.CopyComplete
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.pdb
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Manager.dll
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Manager.pdb
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.dll
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Interface.dll
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Model.dll
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Common.dll
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.dll
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\System.ValueTuple.dll
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\NLog.dll
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\EntityFramework.dll
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Interface.pdb
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Model.pdb
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Common.pdb
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.pdb
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.dll.config
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.pdb
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.xml
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\System.ValueTuple.xml
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\NLog.xml
+D:\gg\GlobalEduERP\GEE.Business.Manager\bin\Debug\EntityFramework.xml
+D:\gg\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csprojAssemblyReference.cache
+D:\gg\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csproj.CoreCompileInputs.cache
+D:\gg\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csproj.CopyComplete
+D:\gg\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.dll
+D:\gg\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Manager.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Manager.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Interface.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Model.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Common.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\System.ValueTuple.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\NLog.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\EntityFramework.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Interface.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Model.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Common.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.dll.config
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.xml
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\System.ValueTuple.xml
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\NLog.xml
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\EntityFramework.xml
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csprojAssemblyReference.cache
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csproj.CoreCompileInputs.cache
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csproj.CopyComplete
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Manager.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Manager.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Interface.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Model.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Common.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\System.ValueTuple.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\NLog.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\EntityFramework.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Interface.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Model.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Common.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.dll.config
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\System.ValueTuple.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\NLog.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\EntityFramework.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csprojAssemblyReference.cache
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csproj.CoreCompileInputs.cache
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csproj.CopyComplete
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Manager.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Manager.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Interface.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Model.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Common.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\System.ValueTuple.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\NLog.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\EntityFramework.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Interface.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Model.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Common.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.dll.config
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\System.ValueTuple.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\NLog.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\bin\Debug\EntityFramework.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csprojAssemblyReference.cache
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csproj.CopyComplete
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Manager.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Manager.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Interface.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Model.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Common.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\System.ValueTuple.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\NLog.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\EntityFramework.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Interface.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Model.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Common.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.dll.config
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.xml
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\System.ValueTuple.xml
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\NLog.xml
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\EntityFramework.xml
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csprojAssemblyReference.cache
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csproj.CoreCompileInputs.cache
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csproj.CopyComplete
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Manager.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Manager.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Interface.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Model.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Common.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\System.ValueTuple.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\NLog.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\EntityFramework.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Interface.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Business.Model.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.Common.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\GEE.DataAccess.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\AutoMapper.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\System.ValueTuple.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\NLog.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\bin\Debug\EntityFramework.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.csprojResolveAssemblyReference.cache
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Manager\obj\Debug\GEE.Business.Manager.pdb

@@ -1,0 +1,2 @@
+D:\GlobalEduERP\GlobalEduERP\obj\Debug\GEE.Business.Manager.csprojAssemblyReference.cache
+D:\GlobalEduERP\GlobalEduERP\obj\Debug\GEE.Business.Manager.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GEEModelStoreContainer" CdmEntityContainer="GEEEntities">
+    <EntitySetMapping Name="Enquiries">
+      <EntityTypeMapping TypeName="GEEModel.Enquiry">
+        <MappingFragment StoreEntitySet="Enquiry">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="EnquiryNumber" ColumnName="EnquiryNumber" />
+          <ScalarProperty Name="EnquiryDate" ColumnName="EnquiryDate" />
+          <ScalarProperty Name="AcademicYear" ColumnName="AcademicYear" />
+          <ScalarProperty Name="Class" ColumnName="Class" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,13 @@
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Release\GEE.Business.Interface.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Release\GEE.Business.Interface.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Release\GEE.Business.Model.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Release\GEE.Common.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Release\NLog.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Release\GEE.Business.Model.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Release\GEE.Common.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Release\NLog.xml
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\obj\Release\GEE.Business.Interface.csprojAssemblyReference.cache
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\obj\Release\GEE.Business.Interface.csproj.CoreCompileInputs.cache
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\obj\Release\GEE.Business.Interface.csproj.CopyComplete
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\obj\Release\GEE.Business.Interface.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\obj\Release\GEE.Business.Interface.pdb

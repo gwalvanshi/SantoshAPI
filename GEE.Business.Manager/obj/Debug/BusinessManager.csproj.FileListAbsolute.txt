@@ -1,0 +1,16 @@
+D:\test\MA\BusinessManager\bin\Debug\BusinessManager.dll
+D:\test\MA\BusinessManager\bin\Debug\BusinessManager.pdb
+D:\test\MA\BusinessManager\bin\Debug\Business.Interface.dll
+D:\test\MA\BusinessManager\bin\Debug\BusinessEntities.dll
+D:\test\MA\BusinessManager\bin\Debug\Common.dll
+D:\test\MA\BusinessManager\bin\Debug\DAL.dll
+D:\test\MA\BusinessManager\bin\Debug\Business.Interface.pdb
+D:\test\MA\BusinessManager\bin\Debug\BusinessEntities.pdb
+D:\test\MA\BusinessManager\bin\Debug\Common.pdb
+D:\test\MA\BusinessManager\bin\Debug\DAL.pdb
+D:\test\MA\BusinessManager\bin\Debug\DAL.dll.config
+D:\test\MA\BusinessManager\obj\Debug\BusinessManager.csprojAssemblyReference.cache
+D:\test\MA\BusinessManager\obj\Debug\BusinessManager.csproj.CoreCompileInputs.cache
+D:\test\MA\BusinessManager\obj\Debug\BusinessManager.csproj.CopyComplete
+D:\test\MA\BusinessManager\obj\Debug\BusinessManager.dll
+D:\test\MA\BusinessManager\obj\Debug\BusinessManager.pdb

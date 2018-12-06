@@ -1,0 +1,16 @@
+D:\test\MA\DAL\bin\Debug\DAL.dll.config
+D:\test\MA\DAL\bin\Debug\DAL.dll
+D:\test\MA\DAL\bin\Debug\DAL.pdb
+D:\test\MA\DAL\bin\Debug\BusinessEntities.dll
+D:\test\MA\DAL\bin\Debug\Common.dll
+D:\test\MA\DAL\bin\Debug\EntityFramework.dll
+D:\test\MA\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\test\MA\DAL\bin\Debug\BusinessEntities.pdb
+D:\test\MA\DAL\bin\Debug\Common.pdb
+D:\test\MA\DAL\bin\Debug\EntityFramework.xml
+D:\test\MA\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\test\MA\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\test\MA\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\test\MA\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\test\MA\DAL\obj\Debug\DAL.dll
+D:\test\MA\DAL\obj\Debug\DAL.pdb

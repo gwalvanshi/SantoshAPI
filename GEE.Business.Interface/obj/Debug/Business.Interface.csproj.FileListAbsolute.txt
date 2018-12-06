@@ -1,0 +1,11 @@
+D:\test\MA\Business.Interface\bin\Debug\Business.Interface.dll
+D:\test\MA\Business.Interface\bin\Debug\Business.Interface.pdb
+D:\test\MA\Business.Interface\bin\Debug\BusinessEntities.dll
+D:\test\MA\Business.Interface\bin\Debug\Common.dll
+D:\test\MA\Business.Interface\bin\Debug\BusinessEntities.pdb
+D:\test\MA\Business.Interface\bin\Debug\Common.pdb
+D:\test\MA\Business.Interface\obj\Debug\Business.Interface.csprojAssemblyReference.cache
+D:\test\MA\Business.Interface\obj\Debug\Business.Interface.csproj.CoreCompileInputs.cache
+D:\test\MA\Business.Interface\obj\Debug\Business.Interface.csproj.CopyComplete
+D:\test\MA\Business.Interface\obj\Debug\Business.Interface.dll
+D:\test\MA\Business.Interface\obj\Debug\Business.Interface.pdb

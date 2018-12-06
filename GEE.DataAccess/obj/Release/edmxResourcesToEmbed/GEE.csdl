@@ -1,0 +1,816 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GEEModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="AcademicYear">
+    <Key>
+      <PropertyRef Name="AcademicYear_ID" />
+    </Key>
+    <Property Name="AcademicYear_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+    <Property Name="ShortName" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+    <Property Name="FromDate" Type="DateTime" Precision="3" />
+    <Property Name="ToDate" Type="DateTime" Precision="3" />
+    <Property Name="Active" Type="Boolean" Nullable="false" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="AdmissionDetail">
+    <Key>
+      <PropertyRef Name="Admission_ID" />
+    </Key>
+    <Property Name="AdmissionNumber" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="Enquiry_ID" Type="Int32" />
+    <Property Name="Approvedby_ID" Type="Int32" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+    <NavigationProperty Name="UserMaster" Relationship="Self.FK_AdmissionDetail_Enquiry" FromRole="AdmissionDetail" ToRole="UserMaster" />
+    <Property Name="Admission_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="AdmissionDocumentList">
+    <Key>
+      <PropertyRef Name="AdmissionDocumentList_ID" />
+    </Key>
+    <Property Name="AdmissionDocumentList_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DocumentCode" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="DocumentName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="IsDigital" Type="Boolean" />
+    <Property Name="IsMandatory" Type="Boolean" />
+    <Property Name="ToFollow" Type="Boolean" />
+    <Property Name="FollowupTypeCode" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="Application">
+    <Key>
+      <PropertyRef Name="Application_ID" />
+    </Key>
+    <Property Name="Application_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Enquiry_ID" Type="Int32" />
+    <Property Name="ApplicaitonNo" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="IsSubmitted" Type="Boolean" Nullable="false" />
+    <Property Name="SubmitDate" Type="DateTime" Precision="3" />
+    <Property Name="IsOnline" Type="Boolean" Nullable="false" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+    <NavigationProperty Name="Enquiry" Relationship="Self.FK_Application_Enquiry" FromRole="Application" ToRole="Enquiry" />
+    <NavigationProperty Name="DocumentSubmissions" Relationship="Self.FK_DocumentSubmission_Application" FromRole="Application" ToRole="DocumentSubmission" />
+  </EntityType>
+  <EntityType Name="CandidateDetail">
+    <Key>
+      <PropertyRef Name="CandidateDetail_ID" />
+    </Key>
+    <Property Name="CandidateDetail_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Enquiry_ID" Type="Int32" />
+    <Property Name="AdmissionClass_id" Type="Int32" />
+    <Property Name="LastPassClass_ID" Type="Int32" />
+    <Property Name="FirstName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="MiddleName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Lastname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="DOB" Type="DateTime" Precision="0" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="StudentType_ID" Type="Int32" />
+    <Property Name="ContactMobileNo" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="HomePhone" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="Gender" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="Nationality" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="hasSibiling" Type="Boolean" />
+    <Property Name="SiblingAdmNumber_ID" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="Address1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address2" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="State_ID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Country" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PinCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Landmark" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DistanceFromSchool" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Caste_ID" Type="Int32" />
+    <Property Name="Religon_ID" Type="Int32" />
+    <Property Name="FatheFirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FatherMiddleName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FatherLasttName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FatherQualificaiton_ID" Type="Int32" />
+    <Property Name="FatherQualificaitonText" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FatherOccupation" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FatherOfficeAddres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FatherOrgnisation" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FatherDesignation" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MotherFirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MotherMiddleName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MotherLasttName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MotherQualificaiton_Id" Type="Int32" />
+    <Property Name="MotherQualificaitonText" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MotherOccupation" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MotherOfficeAddres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MotherOrgnisation" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MotherDesignation" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CurrentSchool" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CurrentSchoolCity" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="IsGovtTransfer" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Remarks" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="CommunicationMode" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+    <NavigationProperty Name="CastCategory" Relationship="Self.FK_CandidateDetail_CastCategory" FromRole="CandidateDetail" ToRole="CastCategory" />
+    <NavigationProperty Name="ClassMaster" Relationship="Self.FK_CandidateDetail_ClassMaster" FromRole="CandidateDetail" ToRole="ClassMaster" />
+    <NavigationProperty Name="ClassMaster1" Relationship="Self.FK_CandidateDetail_ClassMaster1" FromRole="CandidateDetail" ToRole="ClassMaster" />
+    <NavigationProperty Name="Enquiry" Relationship="Self.FK_CandidateDetail_Enquiry" FromRole="CandidateDetail" ToRole="Enquiry" />
+    <NavigationProperty Name="Qualificaton" Relationship="Self.FK_CandidateDetail_Qualificaton" FromRole="CandidateDetail" ToRole="Qualificaton" />
+    <NavigationProperty Name="Qualificaton1" Relationship="Self.FK_CandidateDetail_Qualificaton1" FromRole="CandidateDetail" ToRole="Qualificaton" />
+    <NavigationProperty Name="Religion" Relationship="Self.FK_CandidateDetail_Religion" FromRole="CandidateDetail" ToRole="Religion" />
+  </EntityType>
+  <EntityType Name="CastCategory">
+    <Key>
+      <PropertyRef Name="CastCategory_ID" />
+    </Key>
+    <Property Name="CastCategory_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryCode" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="CategoryDetail" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+    <NavigationProperty Name="CandidateDetails" Relationship="Self.FK_CandidateDetail_CastCategory" FromRole="CastCategory" ToRole="CandidateDetail" />
+  </EntityType>
+  <EntityType Name="ClassMaster">
+    <Key>
+      <PropertyRef Name="Class_ID" />
+    </Key>
+    <Property Name="Class_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ClassCode" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="ClassSeq" Type="Int32" />
+    <Property Name="ClassName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="TotalSections" Type="Int32" />
+    <Property Name="SectionsSequence" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+    <NavigationProperty Name="CandidateDetails" Relationship="Self.FK_CandidateDetail_ClassMaster" FromRole="ClassMaster" ToRole="CandidateDetail" />
+    <NavigationProperty Name="CandidateDetails1" Relationship="Self.FK_CandidateDetail_ClassMaster1" FromRole="ClassMaster" ToRole="CandidateDetail" />
+  </EntityType>
+  <EntityType Name="Designation">
+    <Key>
+      <PropertyRef Name="Designation_ID" />
+    </Key>
+    <Property Name="Designation_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DesigCode" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+    <Property Name="DesigName" Type="String" MaxLength="50" FixedLength="true" Unicode="false" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+    <Property Name="Test_sam" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="DocumentSubmission">
+    <Key>
+      <PropertyRef Name="DocumentSub_ID" />
+    </Key>
+    <Property Name="DocumentSub_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Document_ID" Type="Int32" />
+    <Property Name="Enquiry_Id" Type="Int32" />
+    <Property Name="Application_ID" Type="Int32" />
+    <Property Name="SubmissionDate" Type="DateTime" Precision="3" />
+    <Property Name="PathofDocument" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PhysicalFileLocaiton" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SumissionMethod" Type="Int32" />
+    <Property Name="OnlineDocumentVerified" Type="Boolean" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+    <NavigationProperty Name="Application" Relationship="Self.FK_DocumentSubmission_Application" FromRole="DocumentSubmission" ToRole="Application" />
+    <NavigationProperty Name="DocumentSubmission1" Relationship="Self.FK_DocumentSubmission_DocumentSubmission" FromRole="DocumentSubmission" ToRole="DocumentSubmission1" />
+    <NavigationProperty Name="DocumentSubmission2" Relationship="Self.FK_DocumentSubmission_DocumentSubmission" FromRole="DocumentSubmission1" ToRole="DocumentSubmission" />
+    <NavigationProperty Name="Enquiry" Relationship="Self.FK_DocumentSubmission_Enquiry" FromRole="DocumentSubmission" ToRole="Enquiry" />
+  </EntityType>
+  <EntityType Name="Enquiry">
+    <Key>
+      <PropertyRef Name="Enquiry_ID" />
+    </Key>
+    <Property Name="Enquiry_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EnquiryNo" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="MarketSource_ID" Type="Int32" />
+    <Property Name="EnquiryType_ID" Type="Int32" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+    <NavigationProperty Name="Applications" Relationship="Self.FK_Application_Enquiry" FromRole="Enquiry" ToRole="Application" />
+    <NavigationProperty Name="CandidateDetails" Relationship="Self.FK_CandidateDetail_Enquiry" FromRole="Enquiry" ToRole="CandidateDetail" />
+    <NavigationProperty Name="DocumentSubmissions" Relationship="Self.FK_DocumentSubmission_Enquiry" FromRole="Enquiry" ToRole="DocumentSubmission" />
+    <NavigationProperty Name="EnquiryType" Relationship="Self.FK_Enquiry_EnquiryType" FromRole="Enquiry" ToRole="EnquiryType" />
+    <NavigationProperty Name="MarketingSource" Relationship="Self.FK_Enquiry_MarketingSource" FromRole="Enquiry" ToRole="MarketingSource" />
+    <NavigationProperty Name="Registrations" Relationship="Self.FK_Registration_Enquiry" FromRole="Enquiry" ToRole="Registration" />
+  </EntityType>
+  <EntityType Name="EnquiryType">
+    <Key>
+      <PropertyRef Name="EnquiryType_ID" />
+    </Key>
+    <Property Name="EnquiryType_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EnquiryCode" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="EnquiryName" Type="String" MaxLength="50" FixedLength="true" Unicode="false" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+    <NavigationProperty Name="Enquiries" Relationship="Self.FK_Enquiry_EnquiryType" FromRole="EnquiryType" ToRole="Enquiry" />
+  </EntityType>
+  <EntityType Name="GroupMaster">
+    <Key>
+      <PropertyRef Name="Group_ID" />
+    </Key>
+    <Property Name="Group_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GroupCode" Type="Int32" />
+    <Property Name="GroupName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Address1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address2" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="State_ID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Country" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PinCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Landmark" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="GroupEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="GroupOwner" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="OwnerMobile" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="GrouplPhone" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+    <Property Name="ISDeleted" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="Language">
+    <Key>
+      <PropertyRef Name="Languages_ID" />
+    </Key>
+    <Property Name="Languages_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LangCode" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="LangName" Type="String" MaxLength="50" FixedLength="true" Unicode="false" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="LoginTrack">
+    <Key>
+      <PropertyRef Name="Track_ID" />
+    </Key>
+    <Property Name="Track_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="IPAddress" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="LoginTime" Type="DateTime" Precision="3" />
+    <Property Name="LogoutTime" Type="DateTime" Precision="3" />
+    <Property Name="MacAddress" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="latitudeLongitude" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DeviceType" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="DeviceName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+    <NavigationProperty Name="UserMaster" Relationship="Self.FK_LoginTrack_UserMaster" FromRole="LoginTrack" ToRole="UserMaster" />
+  </EntityType>
+  <EntityType Name="MarketingSource">
+    <Key>
+      <PropertyRef Name="MarketingSource_ID" />
+    </Key>
+    <Property Name="MarketingSource_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MarketingCode" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="MarketingDetails" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+    <NavigationProperty Name="Enquiries" Relationship="Self.FK_Enquiry_MarketingSource" FromRole="MarketingSource" ToRole="Enquiry" />
+  </EntityType>
+  <EntityType Name="Qualificaton">
+    <Key>
+      <PropertyRef Name="Qualificaton_ID" />
+    </Key>
+    <Property Name="Qualificaton_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="QualificationCode" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="QualificationDetail" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+    <NavigationProperty Name="CandidateDetails" Relationship="Self.FK_CandidateDetail_Qualificaton" FromRole="Qualificaton" ToRole="CandidateDetail" />
+    <NavigationProperty Name="CandidateDetails1" Relationship="Self.FK_CandidateDetail_Qualificaton1" FromRole="Qualificaton" ToRole="CandidateDetail" />
+  </EntityType>
+  <EntityType Name="Registration">
+    <Key>
+      <PropertyRef Name="Registration_ID" />
+    </Key>
+    <Property Name="Registration_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Enquiry_ID" Type="Int32" />
+    <Property Name="RegistrationNo" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+    <NavigationProperty Name="Enquiry" Relationship="Self.FK_Registration_Enquiry" FromRole="Registration" ToRole="Enquiry" />
+  </EntityType>
+  <EntityType Name="Religion">
+    <Key>
+      <PropertyRef Name="Religion_ID" />
+    </Key>
+    <Property Name="Religion_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ReligionCode" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="ReligionName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+    <NavigationProperty Name="CandidateDetails" Relationship="Self.FK_CandidateDetail_Religion" FromRole="Religion" ToRole="CandidateDetail" />
+  </EntityType>
+  <EntityType Name="SchoolMaster">
+    <Key>
+      <PropertyRef Name="School_ID" />
+    </Key>
+    <Property Name="School_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="SchoolCode" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="SchoolName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Address1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address2" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="State_ID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Country" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PinCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Landmark" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SchoolEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SchoolOwner" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="OwnerMobile" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="SchoolPrincipal" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SchoolPhone" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="BillingStart" Type="DateTime" Precision="3" />
+    <Property Name="ISActive" Type="Boolean" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+    <Property Name="ISDeleted" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="Subject">
+    <Key>
+      <PropertyRef Name="Subject_ID" />
+    </Key>
+    <Property Name="Subject_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SubjectCode" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="SubjectAbbr" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="SubjectName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="IsScholastic" Type="Boolean" />
+    <Property Name="IsPractical" Type="Boolean" />
+    <Property Name="CGPAIncluded" Type="Boolean" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="UserMaster">
+    <Key>
+      <PropertyRef Name="User_ID" />
+    </Key>
+    <Property Name="User_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="FirstName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Lastname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Role" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Sessionyear" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatedBy_ID" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy_ID" Type="Int32" />
+    <Property Name="SchoolID" Type="Int32" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="ISDeleted" Type="Boolean" />
+    <NavigationProperty Name="AdmissionDetails" Relationship="Self.FK_AdmissionDetail_Enquiry" FromRole="UserMaster" ToRole="AdmissionDetail" />
+    <NavigationProperty Name="LoginTracks" Relationship="Self.FK_LoginTrack_UserMaster" FromRole="UserMaster" ToRole="LoginTrack" />
+  </EntityType>
+  <Association Name="FK_AdmissionDetail_Enquiry">
+    <End Role="UserMaster" Type="Self.UserMaster" Multiplicity="0..1" />
+    <End Role="AdmissionDetail" Type="Self.AdmissionDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserMaster">
+        <PropertyRef Name="User_ID" />
+      </Principal>
+      <Dependent Role="AdmissionDetail">
+        <PropertyRef Name="Approvedby_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Application_Enquiry">
+    <End Role="Enquiry" Type="Self.Enquiry" Multiplicity="0..1" />
+    <End Role="Application" Type="Self.Application" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Enquiry">
+        <PropertyRef Name="Enquiry_ID" />
+      </Principal>
+      <Dependent Role="Application">
+        <PropertyRef Name="Enquiry_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DocumentSubmission_Application">
+    <End Role="Application" Type="Self.Application" Multiplicity="0..1" />
+    <End Role="DocumentSubmission" Type="Self.DocumentSubmission" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Application">
+        <PropertyRef Name="Application_ID" />
+      </Principal>
+      <Dependent Role="DocumentSubmission">
+        <PropertyRef Name="Application_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CandidateDetail_CastCategory">
+    <End Role="CastCategory" Type="Self.CastCategory" Multiplicity="0..1" />
+    <End Role="CandidateDetail" Type="Self.CandidateDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CastCategory">
+        <PropertyRef Name="CastCategory_ID" />
+      </Principal>
+      <Dependent Role="CandidateDetail">
+        <PropertyRef Name="Caste_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CandidateDetail_ClassMaster">
+    <End Role="ClassMaster" Type="Self.ClassMaster" Multiplicity="0..1" />
+    <End Role="CandidateDetail" Type="Self.CandidateDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ClassMaster">
+        <PropertyRef Name="Class_ID" />
+      </Principal>
+      <Dependent Role="CandidateDetail">
+        <PropertyRef Name="AdmissionClass_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CandidateDetail_ClassMaster1">
+    <End Role="ClassMaster" Type="Self.ClassMaster" Multiplicity="0..1" />
+    <End Role="CandidateDetail" Type="Self.CandidateDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ClassMaster">
+        <PropertyRef Name="Class_ID" />
+      </Principal>
+      <Dependent Role="CandidateDetail">
+        <PropertyRef Name="LastPassClass_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CandidateDetail_Enquiry">
+    <End Role="Enquiry" Type="Self.Enquiry" Multiplicity="0..1" />
+    <End Role="CandidateDetail" Type="Self.CandidateDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Enquiry">
+        <PropertyRef Name="Enquiry_ID" />
+      </Principal>
+      <Dependent Role="CandidateDetail">
+        <PropertyRef Name="Enquiry_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CandidateDetail_Qualificaton">
+    <End Role="Qualificaton" Type="Self.Qualificaton" Multiplicity="0..1" />
+    <End Role="CandidateDetail" Type="Self.CandidateDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Qualificaton">
+        <PropertyRef Name="Qualificaton_ID" />
+      </Principal>
+      <Dependent Role="CandidateDetail">
+        <PropertyRef Name="FatherQualificaiton_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CandidateDetail_Qualificaton1">
+    <End Role="Qualificaton" Type="Self.Qualificaton" Multiplicity="0..1" />
+    <End Role="CandidateDetail" Type="Self.CandidateDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Qualificaton">
+        <PropertyRef Name="Qualificaton_ID" />
+      </Principal>
+      <Dependent Role="CandidateDetail">
+        <PropertyRef Name="MotherQualificaiton_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CandidateDetail_Religion">
+    <End Role="Religion" Type="Self.Religion" Multiplicity="0..1" />
+    <End Role="CandidateDetail" Type="Self.CandidateDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Religion">
+        <PropertyRef Name="Religion_ID" />
+      </Principal>
+      <Dependent Role="CandidateDetail">
+        <PropertyRef Name="Religon_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DocumentSubmission_DocumentSubmission">
+    <End Role="DocumentSubmission" Type="Self.DocumentSubmission" Multiplicity="1" />
+    <End Role="DocumentSubmission1" Type="Self.DocumentSubmission" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="DocumentSubmission">
+        <PropertyRef Name="DocumentSub_ID" />
+      </Principal>
+      <Dependent Role="DocumentSubmission1">
+        <PropertyRef Name="DocumentSub_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DocumentSubmission_Enquiry">
+    <End Role="Enquiry" Type="Self.Enquiry" Multiplicity="0..1" />
+    <End Role="DocumentSubmission" Type="Self.DocumentSubmission" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Enquiry">
+        <PropertyRef Name="Enquiry_ID" />
+      </Principal>
+      <Dependent Role="DocumentSubmission">
+        <PropertyRef Name="Enquiry_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Enquiry_EnquiryType">
+    <End Role="EnquiryType" Type="Self.EnquiryType" Multiplicity="0..1" />
+    <End Role="Enquiry" Type="Self.Enquiry" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EnquiryType">
+        <PropertyRef Name="EnquiryType_ID" />
+      </Principal>
+      <Dependent Role="Enquiry">
+        <PropertyRef Name="EnquiryType_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Enquiry_MarketingSource">
+    <End Role="MarketingSource" Type="Self.MarketingSource" Multiplicity="0..1" />
+    <End Role="Enquiry" Type="Self.Enquiry" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MarketingSource">
+        <PropertyRef Name="MarketingSource_ID" />
+      </Principal>
+      <Dependent Role="Enquiry">
+        <PropertyRef Name="MarketSource_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Registration_Enquiry">
+    <End Role="Enquiry" Type="Self.Enquiry" Multiplicity="0..1" />
+    <End Role="Registration" Type="Self.Registration" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Enquiry">
+        <PropertyRef Name="Enquiry_ID" />
+      </Principal>
+      <Dependent Role="Registration">
+        <PropertyRef Name="Enquiry_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LoginTrack_UserMaster">
+    <End Role="UserMaster" Type="Self.UserMaster" Multiplicity="0..1" />
+    <End Role="LoginTrack" Type="Self.LoginTrack" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserMaster">
+        <PropertyRef Name="User_ID" />
+      </Principal>
+      <Dependent Role="LoginTrack">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="GEEDbContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AcademicYears" EntityType="Self.AcademicYear" />
+    <EntitySet Name="AdmissionDetails" EntityType="Self.AdmissionDetail" />
+    <EntitySet Name="AdmissionDocumentLists" EntityType="Self.AdmissionDocumentList" />
+    <EntitySet Name="Applications" EntityType="Self.Application" />
+    <EntitySet Name="CandidateDetails" EntityType="Self.CandidateDetail" />
+    <EntitySet Name="CastCategories" EntityType="Self.CastCategory" />
+    <EntitySet Name="ClassMasters" EntityType="Self.ClassMaster" />
+    <EntitySet Name="Designations" EntityType="Self.Designation" />
+    <EntitySet Name="DocumentSubmissions" EntityType="Self.DocumentSubmission" />
+    <EntitySet Name="Enquiries" EntityType="Self.Enquiry" />
+    <EntitySet Name="EnquiryTypes" EntityType="Self.EnquiryType" />
+    <EntitySet Name="GroupMasters" EntityType="Self.GroupMaster" />
+    <EntitySet Name="Languages" EntityType="Self.Language" />
+    <EntitySet Name="LoginTracks" EntityType="Self.LoginTrack" />
+    <EntitySet Name="MarketingSources" EntityType="Self.MarketingSource" />
+    <EntitySet Name="Qualificatons" EntityType="Self.Qualificaton" />
+    <EntitySet Name="Registrations" EntityType="Self.Registration" />
+    <EntitySet Name="Religions" EntityType="Self.Religion" />
+    <EntitySet Name="SchoolMasters" EntityType="Self.SchoolMaster" />
+    <EntitySet Name="Subjects" EntityType="Self.Subject" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="UserMasters" EntityType="Self.UserMaster" />
+    <AssociationSet Name="FK_AdmissionDetail_Enquiry" Association="Self.FK_AdmissionDetail_Enquiry">
+      <End Role="UserMaster" EntitySet="UserMasters" />
+      <End Role="AdmissionDetail" EntitySet="AdmissionDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Application_Enquiry" Association="Self.FK_Application_Enquiry">
+      <End Role="Enquiry" EntitySet="Enquiries" />
+      <End Role="Application" EntitySet="Applications" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DocumentSubmission_Application" Association="Self.FK_DocumentSubmission_Application">
+      <End Role="Application" EntitySet="Applications" />
+      <End Role="DocumentSubmission" EntitySet="DocumentSubmissions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CandidateDetail_CastCategory" Association="Self.FK_CandidateDetail_CastCategory">
+      <End Role="CastCategory" EntitySet="CastCategories" />
+      <End Role="CandidateDetail" EntitySet="CandidateDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CandidateDetail_ClassMaster" Association="Self.FK_CandidateDetail_ClassMaster">
+      <End Role="ClassMaster" EntitySet="ClassMasters" />
+      <End Role="CandidateDetail" EntitySet="CandidateDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CandidateDetail_ClassMaster1" Association="Self.FK_CandidateDetail_ClassMaster1">
+      <End Role="ClassMaster" EntitySet="ClassMasters" />
+      <End Role="CandidateDetail" EntitySet="CandidateDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CandidateDetail_Enquiry" Association="Self.FK_CandidateDetail_Enquiry">
+      <End Role="Enquiry" EntitySet="Enquiries" />
+      <End Role="CandidateDetail" EntitySet="CandidateDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CandidateDetail_Qualificaton" Association="Self.FK_CandidateDetail_Qualificaton">
+      <End Role="Qualificaton" EntitySet="Qualificatons" />
+      <End Role="CandidateDetail" EntitySet="CandidateDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CandidateDetail_Qualificaton1" Association="Self.FK_CandidateDetail_Qualificaton1">
+      <End Role="Qualificaton" EntitySet="Qualificatons" />
+      <End Role="CandidateDetail" EntitySet="CandidateDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CandidateDetail_Religion" Association="Self.FK_CandidateDetail_Religion">
+      <End Role="Religion" EntitySet="Religions" />
+      <End Role="CandidateDetail" EntitySet="CandidateDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DocumentSubmission_DocumentSubmission" Association="Self.FK_DocumentSubmission_DocumentSubmission">
+      <End Role="DocumentSubmission" EntitySet="DocumentSubmissions" />
+      <End Role="DocumentSubmission1" EntitySet="DocumentSubmissions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DocumentSubmission_Enquiry" Association="Self.FK_DocumentSubmission_Enquiry">
+      <End Role="Enquiry" EntitySet="Enquiries" />
+      <End Role="DocumentSubmission" EntitySet="DocumentSubmissions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Enquiry_EnquiryType" Association="Self.FK_Enquiry_EnquiryType">
+      <End Role="EnquiryType" EntitySet="EnquiryTypes" />
+      <End Role="Enquiry" EntitySet="Enquiries" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Enquiry_MarketingSource" Association="Self.FK_Enquiry_MarketingSource">
+      <End Role="MarketingSource" EntitySet="MarketingSources" />
+      <End Role="Enquiry" EntitySet="Enquiries" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Registration_Enquiry" Association="Self.FK_Registration_Enquiry">
+      <End Role="Enquiry" EntitySet="Enquiries" />
+      <End Role="Registration" EntitySet="Registrations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LoginTrack_UserMaster" Association="Self.FK_LoginTrack_UserMaster">
+      <End Role="UserMaster" EntitySet="UserMasters" />
+      <End Role="LoginTrack" EntitySet="LoginTracks" />
+    </AssociationSet>
+    <EntitySet Name="tblSizes" EntityType="GEEModel.tblSize" />
+    <EntitySet Name="TestTables" EntityType="GEEModel.TestTable" />
+    <EntitySet Name="tblUnits" EntityType="GEEModel.tblUnit" />
+    <AssociationSet Name="FK_tblSize_tblUnit" Association="GEEModel.FK_tblSize_tblUnit">
+      <End Role="tblUnit" EntitySet="tblUnits" />
+      <End Role="tblSize" EntitySet="tblSizes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="tblSize">
+    <Key>
+      <PropertyRef Name="SizeID" />
+    </Key>
+    <Property Name="SizeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SizeName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="SizeDescription" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="UnitID" Type="Int32" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <Property Name="CreatedOn" Type="DateTime" Precision="3" />
+    <Property Name="UpdatedOn" Type="DateTime" Precision="3" />
+    <Property Name="CreatedBy" Type="Int32" />
+    <Property Name="UpdatedBy" Type="Int32" />
+    <NavigationProperty Name="tblUnit" Relationship="GEEModel.FK_tblSize_tblUnit" FromRole="tblSize" ToRole="tblUnit" />
+  </EntityType>
+  <EntityType Name="TestTable">
+    <Key>
+      <PropertyRef Name="TestID" />
+    </Key>
+    <Property Name="TestID" Type="Int32" Nullable="false" />
+    <Property Name="Test_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Class" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tblUnit">
+    <Key>
+      <PropertyRef Name="UnitID" />
+    </Key>
+    <Property Name="UnitID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <Property Name="CreatedBy" Type="Int32" />
+    <Property Name="UpdatedBy" Type="Int32" />
+    <NavigationProperty Name="tblSizes" Relationship="GEEModel.FK_tblSize_tblUnit" FromRole="tblUnit" ToRole="tblSize" />
+  </EntityType>
+  <Association Name="FK_tblSize_tblUnit">
+    <End Type="GEEModel.tblUnit" Role="tblUnit" Multiplicity="0..1" />
+    <End Type="GEEModel.tblSize" Role="tblSize" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblUnit">
+        <PropertyRef Name="UnitID" />
+      </Principal>
+      <Dependent Role="tblSize">
+        <PropertyRef Name="UnitID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

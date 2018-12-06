@@ -1,0 +1,782 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GEEModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AcademicYear">
+    <Key>
+      <PropertyRef Name="AcademicYear_ID" />
+    </Key>
+    <Property Name="AcademicYear_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="char" MaxLength="20" />
+    <Property Name="ShortName" Type="char" MaxLength="20" />
+    <Property Name="FromDate" Type="datetime" />
+    <Property Name="ToDate" Type="datetime" />
+    <Property Name="Active" Type="bit" Nullable="false" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="AdmissionDetail">
+    <Key>
+      <PropertyRef Name="Admission_ID" />
+    </Key>
+    <Property Name="Admission_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AdmissionNumber" Type="char" MaxLength="10" />
+    <Property Name="Enquiry_ID" Type="int" />
+    <Property Name="Approvedby_ID" Type="int" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="AdmissionDocumentList">
+    <Key>
+      <PropertyRef Name="AdmissionDocumentList_ID" />
+    </Key>
+    <Property Name="AdmissionDocumentList_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DocumentCode" Type="char" MaxLength="10" />
+    <Property Name="DocumentName" Type="varchar" MaxLength="50" />
+    <Property Name="IsDigital" Type="bit" />
+    <Property Name="IsMandatory" Type="bit" />
+    <Property Name="ToFollow" Type="bit" />
+    <Property Name="FollowupTypeCode" Type="char" MaxLength="10" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="Application">
+    <Key>
+      <PropertyRef Name="Application_ID" />
+    </Key>
+    <Property Name="Application_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Enquiry_ID" Type="int" />
+    <Property Name="ApplicaitonNo" Type="char" MaxLength="10" />
+    <Property Name="IsSubmitted" Type="bit" Nullable="false" />
+    <Property Name="SubmitDate" Type="datetime" />
+    <Property Name="IsOnline" Type="bit" Nullable="false" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="CandidateDetail">
+    <Key>
+      <PropertyRef Name="CandidateDetail_ID" />
+    </Key>
+    <Property Name="CandidateDetail_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Enquiry_ID" Type="int" />
+    <Property Name="AdmissionClass_id" Type="int" />
+    <Property Name="LastPassClass_ID" Type="int" />
+    <Property Name="FirstName" Type="varchar" MaxLength="20" />
+    <Property Name="MiddleName" Type="varchar" MaxLength="20" />
+    <Property Name="Lastname" Type="varchar" MaxLength="20" />
+    <Property Name="DOB" Type="date" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="StudentType_ID" Type="int" />
+    <Property Name="ContactMobileNo" Type="char" MaxLength="10" />
+    <Property Name="HomePhone" Type="char" MaxLength="10" />
+    <Property Name="Gender" Type="char" MaxLength="10" />
+    <Property Name="Nationality" Type="char" MaxLength="10" />
+    <Property Name="hasSibiling" Type="bit" />
+    <Property Name="SiblingAdmNumber_ID" Type="char" MaxLength="10" />
+    <Property Name="Address1" Type="varchar" MaxLength="50" />
+    <Property Name="Address2" Type="varchar" MaxLength="50" />
+    <Property Name="City" Type="varchar" MaxLength="50" />
+    <Property Name="State_ID" Type="varchar" MaxLength="50" />
+    <Property Name="Country" Type="varchar" MaxLength="50" />
+    <Property Name="PinCode" Type="varchar" MaxLength="50" />
+    <Property Name="Landmark" Type="varchar" MaxLength="50" />
+    <Property Name="DistanceFromSchool" Type="varchar" MaxLength="50" />
+    <Property Name="Caste_ID" Type="int" />
+    <Property Name="Religon_ID" Type="int" />
+    <Property Name="FatheFirstName" Type="varchar" MaxLength="50" />
+    <Property Name="FatherMiddleName" Type="varchar" MaxLength="50" />
+    <Property Name="FatherLasttName" Type="varchar" MaxLength="50" />
+    <Property Name="FatherQualificaiton_ID" Type="int" />
+    <Property Name="FatherQualificaitonText" Type="varchar" MaxLength="50" />
+    <Property Name="FatherOccupation" Type="varchar" MaxLength="50" />
+    <Property Name="FatherOfficeAddres" Type="varchar" MaxLength="50" />
+    <Property Name="FatherOrgnisation" Type="varchar" MaxLength="50" />
+    <Property Name="FatherDesignation" Type="varchar" MaxLength="50" />
+    <Property Name="MotherFirstName" Type="varchar" MaxLength="50" />
+    <Property Name="MotherMiddleName" Type="varchar" MaxLength="50" />
+    <Property Name="MotherLasttName" Type="varchar" MaxLength="50" />
+    <Property Name="MotherQualificaiton_Id" Type="int" />
+    <Property Name="MotherQualificaitonText" Type="varchar" MaxLength="50" />
+    <Property Name="MotherOccupation" Type="varchar" MaxLength="50" />
+    <Property Name="MotherOfficeAddres" Type="varchar" MaxLength="50" />
+    <Property Name="MotherOrgnisation" Type="varchar" MaxLength="50" />
+    <Property Name="MotherDesignation" Type="varchar" MaxLength="50" />
+    <Property Name="CurrentSchool" Type="varchar" MaxLength="50" />
+    <Property Name="CurrentSchoolCity" Type="varchar" MaxLength="50" />
+    <Property Name="IsGovtTransfer" Type="varchar" MaxLength="50" />
+    <Property Name="Remarks" Type="varchar" MaxLength="100" />
+    <Property Name="CommunicationMode" Type="varchar" MaxLength="100" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="CastCategory">
+    <Key>
+      <PropertyRef Name="CastCategory_ID" />
+    </Key>
+    <Property Name="CastCategory_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CategoryCode" Type="char" MaxLength="10" />
+    <Property Name="CategoryDetail" Type="varchar" MaxLength="100" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="ClassMaster">
+    <Key>
+      <PropertyRef Name="Class_ID" />
+    </Key>
+    <Property Name="Class_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ClassCode" Type="char" MaxLength="10" />
+    <Property Name="ClassSeq" Type="int" />
+    <Property Name="ClassName" Type="varchar" MaxLength="20" />
+    <Property Name="TotalSections" Type="int" />
+    <Property Name="SectionsSequence" Type="char" MaxLength="1" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="Designation">
+    <Key>
+      <PropertyRef Name="Designation_ID" />
+    </Key>
+    <Property Name="Designation_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DesigCode" Type="char" MaxLength="20" />
+    <Property Name="DesigName" Type="char" MaxLength="50" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+    <Property Name="Test_sam" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="DocumentSubmission">
+    <Key>
+      <PropertyRef Name="DocumentSub_ID" />
+    </Key>
+    <Property Name="DocumentSub_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Document_ID" Type="int" />
+    <Property Name="Enquiry_Id" Type="int" />
+    <Property Name="Application_ID" Type="int" />
+    <Property Name="SubmissionDate" Type="datetime" />
+    <Property Name="PathofDocument" Type="varchar" MaxLength="50" />
+    <Property Name="PhysicalFileLocaiton" Type="varchar" MaxLength="50" />
+    <Property Name="SumissionMethod" Type="int" />
+    <Property Name="OnlineDocumentVerified" Type="bit" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="Enquiry">
+    <Key>
+      <PropertyRef Name="Enquiry_ID" />
+    </Key>
+    <Property Name="Enquiry_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EnquiryNo" Type="char" MaxLength="10" />
+    <Property Name="MarketSource_ID" Type="int" />
+    <Property Name="EnquiryType_ID" Type="int" />
+    <Property Name="Status" Type="varchar" MaxLength="50" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="EnquiryType">
+    <Key>
+      <PropertyRef Name="EnquiryType_ID" />
+    </Key>
+    <Property Name="EnquiryType_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EnquiryCode" Type="char" MaxLength="10" />
+    <Property Name="EnquiryName" Type="char" MaxLength="50" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="GroupMaster">
+    <Key>
+      <PropertyRef Name="Group_ID" />
+    </Key>
+    <Property Name="Group_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="GroupCode" Type="int" />
+    <Property Name="GroupName" Type="varchar" MaxLength="100" />
+    <Property Name="Address1" Type="varchar" MaxLength="50" />
+    <Property Name="Address2" Type="varchar" MaxLength="50" />
+    <Property Name="City" Type="varchar" MaxLength="50" />
+    <Property Name="State_ID" Type="varchar" MaxLength="50" />
+    <Property Name="Country" Type="varchar" MaxLength="50" />
+    <Property Name="PinCode" Type="varchar" MaxLength="50" />
+    <Property Name="Landmark" Type="varchar" MaxLength="50" />
+    <Property Name="GroupEmail" Type="varchar" MaxLength="50" />
+    <Property Name="GroupOwner" Type="varchar" MaxLength="50" />
+    <Property Name="OwnerMobile" Type="varchar" MaxLength="20" />
+    <Property Name="GrouplPhone" Type="varchar" MaxLength="20" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy" Type="char" MaxLength="20" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="Languages">
+    <Key>
+      <PropertyRef Name="Languages_ID" />
+    </Key>
+    <Property Name="Languages_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LangCode" Type="char" MaxLength="10" />
+    <Property Name="LangName" Type="char" MaxLength="50" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="LoginTrack">
+    <Key>
+      <PropertyRef Name="Track_ID" />
+    </Key>
+    <Property Name="Track_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="IPAddress" Type="varchar" MaxLength="20" />
+    <Property Name="LoginTime" Type="datetime" />
+    <Property Name="LogoutTime" Type="datetime" />
+    <Property Name="MacAddress" Type="varchar" MaxLength="50" />
+    <Property Name="latitudeLongitude" Type="varchar" MaxLength="50" />
+    <Property Name="DeviceType" Type="varchar" MaxLength="20" />
+    <Property Name="DeviceName" Type="varchar" MaxLength="20" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="MarketingSource">
+    <Key>
+      <PropertyRef Name="MarketingSource_ID" />
+    </Key>
+    <Property Name="MarketingSource_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MarketingCode" Type="char" MaxLength="10" />
+    <Property Name="MarketingDetails" Type="varchar" MaxLength="100" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="Qualificaton">
+    <Key>
+      <PropertyRef Name="Qualificaton_ID" />
+    </Key>
+    <Property Name="Qualificaton_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="QualificationCode" Type="char" MaxLength="10" />
+    <Property Name="QualificationDetail" Type="varchar" MaxLength="100" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="Registration">
+    <Key>
+      <PropertyRef Name="Registration_ID" />
+    </Key>
+    <Property Name="Registration_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Enquiry_ID" Type="int" />
+    <Property Name="RegistrationNo" Type="char" MaxLength="10" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="Religion">
+    <Key>
+      <PropertyRef Name="Religion_ID" />
+    </Key>
+    <Property Name="Religion_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ReligionCode" Type="char" MaxLength="10" />
+    <Property Name="ReligionName" Type="varchar" MaxLength="100" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="SchoolMaster">
+    <Key>
+      <PropertyRef Name="School_ID" />
+    </Key>
+    <Property Name="School_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="SchoolCode" Type="char" MaxLength="10" />
+    <Property Name="SchoolName" Type="varchar" MaxLength="100" />
+    <Property Name="Address1" Type="varchar" MaxLength="50" />
+    <Property Name="Address2" Type="varchar" MaxLength="50" />
+    <Property Name="City" Type="varchar" MaxLength="50" />
+    <Property Name="State_ID" Type="varchar" MaxLength="50" />
+    <Property Name="Country" Type="varchar" MaxLength="50" />
+    <Property Name="PinCode" Type="varchar" MaxLength="50" />
+    <Property Name="Landmark" Type="varchar" MaxLength="50" />
+    <Property Name="SchoolEmail" Type="varchar" MaxLength="50" />
+    <Property Name="SchoolOwner" Type="varchar" MaxLength="50" />
+    <Property Name="OwnerMobile" Type="varchar" MaxLength="20" />
+    <Property Name="SchoolPrincipal" Type="varchar" MaxLength="50" />
+    <Property Name="SchoolPhone" Type="varchar" MaxLength="20" />
+    <Property Name="BillingStart" Type="datetime" />
+    <Property Name="ISActive" Type="bit" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy" Type="char" MaxLength="20" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="Subject">
+    <Key>
+      <PropertyRef Name="Subject_ID" />
+    </Key>
+    <Property Name="Subject_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SubjectCode" Type="char" MaxLength="10" />
+    <Property Name="SubjectAbbr" Type="varchar" MaxLength="20" />
+    <Property Name="SubjectName" Type="varchar" MaxLength="50" />
+    <Property Name="IsScholastic" Type="bit" />
+    <Property Name="IsPractical" Type="bit" />
+    <Property Name="CGPAIncluded" Type="bit" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="tblSize">
+    <Key>
+      <PropertyRef Name="SizeID" />
+    </Key>
+    <Property Name="SizeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SizeName" Type="nvarchar" MaxLength="100" />
+    <Property Name="SizeDescription" Type="nvarchar" MaxLength="200" />
+    <Property Name="UnitID" Type="int" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+    <Property Name="CreatedOn" Type="datetime" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="UpdatedBy" Type="int" />
+    <Property Name="UpdatedOn" Type="datetime" />
+  </EntityType>
+  <EntityType Name="tblUnit">
+    <Key>
+      <PropertyRef Name="UnitID" />
+    </Key>
+    <Property Name="UnitID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="100" />
+    <Property Name="Description" Type="nvarchar" MaxLength="200" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="UpdatedBy" Type="int" />
+  </EntityType>
+  <EntityType Name="TestTable">
+    <Key>
+      <PropertyRef Name="TestID" />
+    </Key>
+    <Property Name="TestID" Type="int" Nullable="false" />
+    <Property Name="Test_Name" Type="varchar" MaxLength="50" />
+    <Property Name="Class" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="UserMaster">
+    <Key>
+      <PropertyRef Name="User_ID" />
+    </Key>
+    <Property Name="User_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="Password" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="FirstName" Type="varchar" MaxLength="20" />
+    <Property Name="Lastname" Type="varchar" MaxLength="20" />
+    <Property Name="Role" Type="varchar" MaxLength="20" />
+    <Property Name="Sessionyear" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy_ID" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy_ID" Type="int" />
+    <Property Name="SchoolID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+    <Property Name="ISDeleted" Type="bit" />
+  </EntityType>
+  <Association Name="FK_AdmissionDetail_Enquiry">
+    <End Role="UserMaster" Type="Self.UserMaster" Multiplicity="0..1" />
+    <End Role="AdmissionDetail" Type="Self.AdmissionDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserMaster">
+        <PropertyRef Name="User_ID" />
+      </Principal>
+      <Dependent Role="AdmissionDetail">
+        <PropertyRef Name="Approvedby_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Application_Enquiry">
+    <End Role="Enquiry" Type="Self.Enquiry" Multiplicity="0..1" />
+    <End Role="Application" Type="Self.Application" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Enquiry">
+        <PropertyRef Name="Enquiry_ID" />
+      </Principal>
+      <Dependent Role="Application">
+        <PropertyRef Name="Enquiry_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CandidateDetail_CastCategory">
+    <End Role="CastCategory" Type="Self.CastCategory" Multiplicity="0..1" />
+    <End Role="CandidateDetail" Type="Self.CandidateDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CastCategory">
+        <PropertyRef Name="CastCategory_ID" />
+      </Principal>
+      <Dependent Role="CandidateDetail">
+        <PropertyRef Name="Caste_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CandidateDetail_ClassMaster">
+    <End Role="ClassMaster" Type="Self.ClassMaster" Multiplicity="0..1" />
+    <End Role="CandidateDetail" Type="Self.CandidateDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ClassMaster">
+        <PropertyRef Name="Class_ID" />
+      </Principal>
+      <Dependent Role="CandidateDetail">
+        <PropertyRef Name="AdmissionClass_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CandidateDetail_ClassMaster1">
+    <End Role="ClassMaster" Type="Self.ClassMaster" Multiplicity="0..1" />
+    <End Role="CandidateDetail" Type="Self.CandidateDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ClassMaster">
+        <PropertyRef Name="Class_ID" />
+      </Principal>
+      <Dependent Role="CandidateDetail">
+        <PropertyRef Name="LastPassClass_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CandidateDetail_Enquiry">
+    <End Role="Enquiry" Type="Self.Enquiry" Multiplicity="0..1" />
+    <End Role="CandidateDetail" Type="Self.CandidateDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Enquiry">
+        <PropertyRef Name="Enquiry_ID" />
+      </Principal>
+      <Dependent Role="CandidateDetail">
+        <PropertyRef Name="Enquiry_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CandidateDetail_Qualificaton">
+    <End Role="Qualificaton" Type="Self.Qualificaton" Multiplicity="0..1" />
+    <End Role="CandidateDetail" Type="Self.CandidateDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Qualificaton">
+        <PropertyRef Name="Qualificaton_ID" />
+      </Principal>
+      <Dependent Role="CandidateDetail">
+        <PropertyRef Name="FatherQualificaiton_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CandidateDetail_Qualificaton1">
+    <End Role="Qualificaton" Type="Self.Qualificaton" Multiplicity="0..1" />
+    <End Role="CandidateDetail" Type="Self.CandidateDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Qualificaton">
+        <PropertyRef Name="Qualificaton_ID" />
+      </Principal>
+      <Dependent Role="CandidateDetail">
+        <PropertyRef Name="MotherQualificaiton_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CandidateDetail_Religion">
+    <End Role="Religion" Type="Self.Religion" Multiplicity="0..1" />
+    <End Role="CandidateDetail" Type="Self.CandidateDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Religion">
+        <PropertyRef Name="Religion_ID" />
+      </Principal>
+      <Dependent Role="CandidateDetail">
+        <PropertyRef Name="Religon_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DocumentSubmission_Application">
+    <End Role="Application" Type="Self.Application" Multiplicity="0..1" />
+    <End Role="DocumentSubmission" Type="Self.DocumentSubmission" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Application">
+        <PropertyRef Name="Application_ID" />
+      </Principal>
+      <Dependent Role="DocumentSubmission">
+        <PropertyRef Name="Application_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DocumentSubmission_DocumentSubmission">
+    <End Role="DocumentSubmission" Type="Self.DocumentSubmission" Multiplicity="1" />
+    <End Role="DocumentSubmission1" Type="Self.DocumentSubmission" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="DocumentSubmission">
+        <PropertyRef Name="DocumentSub_ID" />
+      </Principal>
+      <Dependent Role="DocumentSubmission1">
+        <PropertyRef Name="DocumentSub_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DocumentSubmission_Enquiry">
+    <End Role="Enquiry" Type="Self.Enquiry" Multiplicity="0..1" />
+    <End Role="DocumentSubmission" Type="Self.DocumentSubmission" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Enquiry">
+        <PropertyRef Name="Enquiry_ID" />
+      </Principal>
+      <Dependent Role="DocumentSubmission">
+        <PropertyRef Name="Enquiry_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Enquiry_EnquiryType">
+    <End Role="EnquiryType" Type="Self.EnquiryType" Multiplicity="0..1" />
+    <End Role="Enquiry" Type="Self.Enquiry" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EnquiryType">
+        <PropertyRef Name="EnquiryType_ID" />
+      </Principal>
+      <Dependent Role="Enquiry">
+        <PropertyRef Name="EnquiryType_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Enquiry_MarketingSource">
+    <End Role="MarketingSource" Type="Self.MarketingSource" Multiplicity="0..1" />
+    <End Role="Enquiry" Type="Self.Enquiry" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MarketingSource">
+        <PropertyRef Name="MarketingSource_ID" />
+      </Principal>
+      <Dependent Role="Enquiry">
+        <PropertyRef Name="MarketSource_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LoginTrack_UserMaster">
+    <End Role="UserMaster" Type="Self.UserMaster" Multiplicity="0..1" />
+    <End Role="LoginTrack" Type="Self.LoginTrack" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserMaster">
+        <PropertyRef Name="User_ID" />
+      </Principal>
+      <Dependent Role="LoginTrack">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Registration_Enquiry">
+    <End Role="Enquiry" Type="Self.Enquiry" Multiplicity="0..1" />
+    <End Role="Registration" Type="Self.Registration" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Enquiry">
+        <PropertyRef Name="Enquiry_ID" />
+      </Principal>
+      <Dependent Role="Registration">
+        <PropertyRef Name="Enquiry_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblSize_tblUnit">
+    <End Role="tblUnit" Type="Self.tblUnit" Multiplicity="0..1" />
+    <End Role="tblSize" Type="Self.tblSize" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblUnit">
+        <PropertyRef Name="UnitID" />
+      </Principal>
+      <Dependent Role="tblSize">
+        <PropertyRef Name="UnitID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="GEEModelStoreContainer">
+    <EntitySet Name="AcademicYear" EntityType="Self.AcademicYear" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AdmissionDetail" EntityType="Self.AdmissionDetail" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AdmissionDocumentList" EntityType="Self.AdmissionDocumentList" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Application" EntityType="Self.Application" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CandidateDetail" EntityType="Self.CandidateDetail" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CastCategory" EntityType="Self.CastCategory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ClassMaster" EntityType="Self.ClassMaster" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Designation" EntityType="Self.Designation" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DocumentSubmission" EntityType="Self.DocumentSubmission" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Enquiry" EntityType="Self.Enquiry" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EnquiryType" EntityType="Self.EnquiryType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GroupMaster" EntityType="Self.GroupMaster" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Languages" EntityType="Self.Languages" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LoginTrack" EntityType="Self.LoginTrack" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MarketingSource" EntityType="Self.MarketingSource" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Qualificaton" EntityType="Self.Qualificaton" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Registration" EntityType="Self.Registration" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Religion" EntityType="Self.Religion" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SchoolMaster" EntityType="Self.SchoolMaster" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Subject" EntityType="Self.Subject" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblSize" EntityType="Self.tblSize" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblUnit" EntityType="Self.tblUnit" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TestTable" EntityType="Self.TestTable" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserMaster" EntityType="Self.UserMaster" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_AdmissionDetail_Enquiry" Association="Self.FK_AdmissionDetail_Enquiry">
+      <End Role="UserMaster" EntitySet="UserMaster" />
+      <End Role="AdmissionDetail" EntitySet="AdmissionDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Application_Enquiry" Association="Self.FK_Application_Enquiry">
+      <End Role="Enquiry" EntitySet="Enquiry" />
+      <End Role="Application" EntitySet="Application" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CandidateDetail_CastCategory" Association="Self.FK_CandidateDetail_CastCategory">
+      <End Role="CastCategory" EntitySet="CastCategory" />
+      <End Role="CandidateDetail" EntitySet="CandidateDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CandidateDetail_ClassMaster" Association="Self.FK_CandidateDetail_ClassMaster">
+      <End Role="ClassMaster" EntitySet="ClassMaster" />
+      <End Role="CandidateDetail" EntitySet="CandidateDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CandidateDetail_ClassMaster1" Association="Self.FK_CandidateDetail_ClassMaster1">
+      <End Role="ClassMaster" EntitySet="ClassMaster" />
+      <End Role="CandidateDetail" EntitySet="CandidateDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CandidateDetail_Enquiry" Association="Self.FK_CandidateDetail_Enquiry">
+      <End Role="Enquiry" EntitySet="Enquiry" />
+      <End Role="CandidateDetail" EntitySet="CandidateDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CandidateDetail_Qualificaton" Association="Self.FK_CandidateDetail_Qualificaton">
+      <End Role="Qualificaton" EntitySet="Qualificaton" />
+      <End Role="CandidateDetail" EntitySet="CandidateDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CandidateDetail_Qualificaton1" Association="Self.FK_CandidateDetail_Qualificaton1">
+      <End Role="Qualificaton" EntitySet="Qualificaton" />
+      <End Role="CandidateDetail" EntitySet="CandidateDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CandidateDetail_Religion" Association="Self.FK_CandidateDetail_Religion">
+      <End Role="Religion" EntitySet="Religion" />
+      <End Role="CandidateDetail" EntitySet="CandidateDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DocumentSubmission_Application" Association="Self.FK_DocumentSubmission_Application">
+      <End Role="Application" EntitySet="Application" />
+      <End Role="DocumentSubmission" EntitySet="DocumentSubmission" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DocumentSubmission_DocumentSubmission" Association="Self.FK_DocumentSubmission_DocumentSubmission">
+      <End Role="DocumentSubmission" EntitySet="DocumentSubmission" />
+      <End Role="DocumentSubmission1" EntitySet="DocumentSubmission" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DocumentSubmission_Enquiry" Association="Self.FK_DocumentSubmission_Enquiry">
+      <End Role="Enquiry" EntitySet="Enquiry" />
+      <End Role="DocumentSubmission" EntitySet="DocumentSubmission" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Enquiry_EnquiryType" Association="Self.FK_Enquiry_EnquiryType">
+      <End Role="EnquiryType" EntitySet="EnquiryType" />
+      <End Role="Enquiry" EntitySet="Enquiry" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Enquiry_MarketingSource" Association="Self.FK_Enquiry_MarketingSource">
+      <End Role="MarketingSource" EntitySet="MarketingSource" />
+      <End Role="Enquiry" EntitySet="Enquiry" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LoginTrack_UserMaster" Association="Self.FK_LoginTrack_UserMaster">
+      <End Role="UserMaster" EntitySet="UserMaster" />
+      <End Role="LoginTrack" EntitySet="LoginTrack" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Registration_Enquiry" Association="Self.FK_Registration_Enquiry">
+      <End Role="Enquiry" EntitySet="Enquiry" />
+      <End Role="Registration" EntitySet="Registration" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblSize_tblUnit" Association="Self.FK_tblSize_tblUnit">
+      <End Role="tblUnit" EntitySet="tblUnit" />
+      <End Role="tblSize" EntitySet="tblSize" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

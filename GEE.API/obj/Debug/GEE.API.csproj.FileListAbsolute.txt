@@ -1,0 +1,923 @@
+D:\GlobalEduERP\Web\bin\Web.dll.config
+D:\GlobalEduERP\Web\bin\Web.dll
+D:\GlobalEduERP\Web\bin\Web.pdb
+D:\GlobalEduERP\Web\bin\roslyn\csc.exe
+D:\GlobalEduERP\Web\bin\roslyn\csc.exe.config
+D:\GlobalEduERP\Web\bin\roslyn\csc.rsp
+D:\GlobalEduERP\Web\bin\roslyn\csi.exe
+D:\GlobalEduERP\Web\bin\roslyn\csi.exe.config
+D:\GlobalEduERP\Web\bin\roslyn\csi.rsp
+D:\GlobalEduERP\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GlobalEduERP\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GlobalEduERP\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GlobalEduERP\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GlobalEduERP\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GlobalEduERP\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GlobalEduERP\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GlobalEduERP\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GlobalEduERP\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GlobalEduERP\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GlobalEduERP\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.AppContext.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Console.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Diagnostics.Process.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.IO.Compression.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.IO.FileSystem.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.IO.Pipes.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Security.AccessControl.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Security.Claims.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Security.Principal.Windows.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Threading.Thread.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.ValueTuple.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Xml.XPath.dll
+D:\GlobalEduERP\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GlobalEduERP\Web\bin\roslyn\vbc.exe
+D:\GlobalEduERP\Web\bin\roslyn\vbc.exe.config
+D:\GlobalEduERP\Web\bin\roslyn\vbc.rsp
+D:\GlobalEduERP\Web\bin\roslyn\VBCSCompiler.exe
+D:\GlobalEduERP\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\GlobalEduERP\Web\bin\CommonServiceLocator.dll
+D:\GlobalEduERP\Web\bin\GEE.Business.Interface.dll
+D:\GlobalEduERP\Web\bin\GEE.Business.Manager.dll
+D:\GlobalEduERP\Web\bin\GEE.Business.Model.dll
+D:\GlobalEduERP\Web\bin\GEE.Common.dll
+D:\GlobalEduERP\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GlobalEduERP\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\GlobalEduERP\Web\bin\Newtonsoft.Json.dll
+D:\GlobalEduERP\Web\bin\System.Net.Http.Formatting.dll
+D:\GlobalEduERP\Web\bin\System.Web.Http.dll
+D:\GlobalEduERP\Web\bin\System.Web.Http.WebHost.dll
+D:\GlobalEduERP\Web\bin\Unity.Abstractions.dll
+D:\GlobalEduERP\Web\bin\Unity.AspNet.WebApi.dll
+D:\GlobalEduERP\Web\bin\Unity.Configuration.dll
+D:\GlobalEduERP\Web\bin\Unity.Container.dll
+D:\GlobalEduERP\Web\bin\Unity.Interception.Configuration.dll
+D:\GlobalEduERP\Web\bin\Unity.Interception.dll
+D:\GlobalEduERP\Web\bin\Unity.RegistrationByConvention.dll
+D:\GlobalEduERP\Web\bin\Unity.ServiceLocation.dll
+D:\GlobalEduERP\Web\bin\WebActivatorEx.dll
+D:\GlobalEduERP\Web\bin\GEE.DataAccess.dll
+D:\GlobalEduERP\Web\bin\EntityFramework.dll
+D:\GlobalEduERP\Web\bin\GEE.Business.Interface.pdb
+D:\GlobalEduERP\Web\bin\GEE.Business.Model.pdb
+D:\GlobalEduERP\Web\bin\GEE.Business.Manager.pdb
+D:\GlobalEduERP\Web\bin\GEE.Common.pdb
+D:\GlobalEduERP\Web\bin\CommonServiceLocator.pdb
+D:\GlobalEduERP\Web\bin\Unity.Configuration.pdb
+D:\GlobalEduERP\Web\bin\Unity.Interception.pdb
+D:\GlobalEduERP\Web\bin\Unity.Interception.Configuration.pdb
+D:\GlobalEduERP\Web\bin\Unity.RegistrationByConvention.pdb
+D:\GlobalEduERP\Web\bin\Unity.ServiceLocation.pdb
+D:\GlobalEduERP\Web\bin\Newtonsoft.Json.xml
+D:\GlobalEduERP\Web\bin\System.Net.Http.Formatting.xml
+D:\GlobalEduERP\Web\bin\System.Web.Http.xml
+D:\GlobalEduERP\Web\bin\System.Web.Http.WebHost.xml
+D:\GlobalEduERP\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GlobalEduERP\Web\bin\GEE.DataAccess.pdb
+D:\GlobalEduERP\Web\bin\GEE.DataAccess.dll.config
+D:\GlobalEduERP\Web\bin\EntityFramework.xml
+D:\GlobalEduERP\Web\obj\Debug\GEE.API.csprojAssemblyReference.cache
+D:\GlobalEduERP\Web\obj\Debug\GEE.API.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP\Web\obj\Debug\GEE.API.csproj.CopyComplete
+D:\GlobalEduERP\Web\obj\Debug\Web.dll
+D:\GlobalEduERP\Web\obj\Debug\Web.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csprojAssemblyReference.cache
+D:\GlobalEduERP\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Web.dll.config
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Web.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Web.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\csc.exe
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\csc.exe.config
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\csc.rsp
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\csi.exe
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\csi.exe.config
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\csi.rsp
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.AppContext.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Collections.Immutable.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Console.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.Process.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.IO.Compression.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.IO.Pipes.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Security.AccessControl.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Claims.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Threading.Thread.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.ValueTuple.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XPath.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\vbc.exe
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\vbc.exe.config
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\vbc.rsp
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\VBCSCompiler.exe
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\roslyn\VBCSCompiler.exe.config
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\CommonServiceLocator.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\GEE.Business.Interface.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\GEE.Business.Manager.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\GEE.Business.Model.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Microsoft.Web.Infrastructure.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Newtonsoft.Json.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\System.Net.Http.Formatting.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\System.Web.Http.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\System.Web.Http.WebHost.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Unity.Abstractions.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Unity.AspNet.WebApi.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Unity.Configuration.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Unity.Container.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Unity.Interception.Configuration.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Unity.Interception.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Unity.RegistrationByConvention.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Unity.ServiceLocation.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\WebActivatorEx.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\GEE.DataAccess.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\EntityFramework.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\GEE.Business.Interface.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\GEE.Business.Manager.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\GEE.Business.Model.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\CommonServiceLocator.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Unity.Configuration.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Unity.Interception.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Unity.Interception.Configuration.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Unity.RegistrationByConvention.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Unity.ServiceLocation.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Newtonsoft.Json.xml
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\System.Net.Http.Formatting.xml
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\System.Web.Http.xml
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\System.Web.Http.WebHost.xml
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\GEE.DataAccess.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\GEE.DataAccess.dll.config
+D:\GlobalEduERP\GlobalEduERP\GEE.API\bin\EntityFramework.xml
+D:\GlobalEduERP\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csproj.CopyComplete
+D:\GlobalEduERP\GlobalEduERP\GEE.API\obj\Debug\Web.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.API\obj\Debug\Web.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csprojAssemblyReference.cache
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\GEE.API.dll.config
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\GEE.API.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\GEE.API.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\csc.exe
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\csc.exe.config
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\csc.rsp
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\csi.exe
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\csi.exe.config
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\csi.rsp
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.AppContext.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Collections.Immutable.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Console.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.Process.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.IO.Compression.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.IO.Pipes.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Security.AccessControl.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Claims.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Threading.Thread.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.ValueTuple.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XPath.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\vbc.exe
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\vbc.exe.config
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\vbc.rsp
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\VBCSCompiler.exe
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\roslyn\VBCSCompiler.exe.config
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\CommonServiceLocator.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\EntityFramework.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\EntityFramework.SqlServer.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\GEE.Business.Interface.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\GEE.Business.Manager.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\GEE.Business.Model.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\GEE.Common.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Microsoft.Web.Infrastructure.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Newtonsoft.Json.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\NLog.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\System.Net.Http.Formatting.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\System.ValueTuple.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\System.Web.Http.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\System.Web.Http.WebHost.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Unity.Abstractions.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Unity.AspNet.WebApi.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Unity.Configuration.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Unity.Container.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Unity.Interception.Configuration.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Unity.Interception.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Unity.RegistrationByConvention.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Unity.ServiceLocation.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\WebActivatorEx.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\AutoMapper.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\GEE.DataAccess.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\GEE.Business.Interface.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\GEE.Business.Manager.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\GEE.Business.Model.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\GEE.Common.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\CommonServiceLocator.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\EntityFramework.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\EntityFramework.SqlServer.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\NLog.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\System.ValueTuple.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Unity.Configuration.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Unity.Interception.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Unity.Interception.Configuration.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Unity.RegistrationByConvention.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Unity.ServiceLocation.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Newtonsoft.Json.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\System.Net.Http.Formatting.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\System.Web.Http.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\System.Web.Http.WebHost.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\AutoMapper.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\AutoMapper.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\GEE.DataAccess.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\bin\GEE.DataAccess.dll.config
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csproj.CopyComplete
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\obj\Debug\GEE.API.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.API\obj\Debug\GEE.API.pdb
+D:\gg\GlobalEduERP\GEE.API\bin\GEE.API.dll.config
+D:\gg\GlobalEduERP\GEE.API\bin\GEE.API.dll
+D:\gg\GlobalEduERP\GEE.API\bin\GEE.API.pdb
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\csc.exe
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\csc.exe.config
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\csc.rsp
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\csi.exe
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\csi.exe.config
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\csi.rsp
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.AppContext.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Console.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.Process.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.IO.Compression.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.IO.Pipes.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Security.AccessControl.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Claims.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Threading.Thread.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.ValueTuple.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XPath.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\vbc.exe
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\vbc.exe.config
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\vbc.rsp
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\VBCSCompiler.exe
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\VBCSCompiler.exe.config
+D:\gg\GlobalEduERP\GEE.API\bin\CommonServiceLocator.dll
+D:\gg\GlobalEduERP\GEE.API\bin\EntityFramework.dll
+D:\gg\GlobalEduERP\GEE.API\bin\EntityFramework.SqlServer.dll
+D:\gg\GlobalEduERP\GEE.API\bin\GEE.Business.Interface.dll
+D:\gg\GlobalEduERP\GEE.API\bin\GEE.Business.Manager.dll
+D:\gg\GlobalEduERP\GEE.API\bin\GEE.Business.Model.dll
+D:\gg\GlobalEduERP\GEE.API\bin\GEE.Common.dll
+D:\gg\GlobalEduERP\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\gg\GlobalEduERP\GEE.API\bin\Microsoft.Web.Infrastructure.dll
+D:\gg\GlobalEduERP\GEE.API\bin\Newtonsoft.Json.dll
+D:\gg\GlobalEduERP\GEE.API\bin\NLog.dll
+D:\gg\GlobalEduERP\GEE.API\bin\System.Net.Http.Formatting.dll
+D:\gg\GlobalEduERP\GEE.API\bin\System.ValueTuple.dll
+D:\gg\GlobalEduERP\GEE.API\bin\System.Web.Http.dll
+D:\gg\GlobalEduERP\GEE.API\bin\System.Web.Http.WebHost.dll
+D:\gg\GlobalEduERP\GEE.API\bin\Unity.Abstractions.dll
+D:\gg\GlobalEduERP\GEE.API\bin\Unity.AspNet.WebApi.dll
+D:\gg\GlobalEduERP\GEE.API\bin\Unity.Configuration.dll
+D:\gg\GlobalEduERP\GEE.API\bin\Unity.Container.dll
+D:\gg\GlobalEduERP\GEE.API\bin\Unity.Interception.Configuration.dll
+D:\gg\GlobalEduERP\GEE.API\bin\Unity.Interception.dll
+D:\gg\GlobalEduERP\GEE.API\bin\Unity.RegistrationByConvention.dll
+D:\gg\GlobalEduERP\GEE.API\bin\Unity.ServiceLocation.dll
+D:\gg\GlobalEduERP\GEE.API\bin\WebActivatorEx.dll
+D:\gg\GlobalEduERP\GEE.API\bin\AutoMapper.dll
+D:\gg\GlobalEduERP\GEE.API\bin\GEE.DataAccess.dll
+D:\gg\GlobalEduERP\GEE.API\bin\GEE.Business.Interface.pdb
+D:\gg\GlobalEduERP\GEE.API\bin\GEE.Business.Manager.pdb
+D:\gg\GlobalEduERP\GEE.API\bin\GEE.Business.Model.pdb
+D:\gg\GlobalEduERP\GEE.API\bin\GEE.Common.pdb
+D:\gg\GlobalEduERP\GEE.API\bin\CommonServiceLocator.pdb
+D:\gg\GlobalEduERP\GEE.API\bin\EntityFramework.xml
+D:\gg\GlobalEduERP\GEE.API\bin\EntityFramework.SqlServer.xml
+D:\gg\GlobalEduERP\GEE.API\bin\NLog.xml
+D:\gg\GlobalEduERP\GEE.API\bin\System.ValueTuple.xml
+D:\gg\GlobalEduERP\GEE.API\bin\Unity.Configuration.pdb
+D:\gg\GlobalEduERP\GEE.API\bin\Unity.Interception.pdb
+D:\gg\GlobalEduERP\GEE.API\bin\Unity.Interception.Configuration.pdb
+D:\gg\GlobalEduERP\GEE.API\bin\Unity.RegistrationByConvention.pdb
+D:\gg\GlobalEduERP\GEE.API\bin\Unity.ServiceLocation.pdb
+D:\gg\GlobalEduERP\GEE.API\bin\Newtonsoft.Json.xml
+D:\gg\GlobalEduERP\GEE.API\bin\System.Net.Http.Formatting.xml
+D:\gg\GlobalEduERP\GEE.API\bin\System.Web.Http.xml
+D:\gg\GlobalEduERP\GEE.API\bin\System.Web.Http.WebHost.xml
+D:\gg\GlobalEduERP\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\gg\GlobalEduERP\GEE.API\bin\AutoMapper.pdb
+D:\gg\GlobalEduERP\GEE.API\bin\AutoMapper.xml
+D:\gg\GlobalEduERP\GEE.API\bin\GEE.DataAccess.pdb
+D:\gg\GlobalEduERP\GEE.API\bin\GEE.DataAccess.dll.config
+D:\gg\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csprojAssemblyReference.cache
+D:\gg\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csproj.CoreCompileInputs.cache
+D:\gg\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csproj.CopyComplete
+D:\gg\GlobalEduERP\GEE.API\obj\Debug\GEE.API.dll
+D:\gg\GlobalEduERP\GEE.API\obj\Debug\GEE.API.pdb
+D:\gg\GlobalEduERP\GEE.API\bin\roslyn\System.Collections.Immutable.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\GEE.API.dll.config
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\GEE.API.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\GEE.API.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\csc.exe
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\csc.exe.config
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\csc.rsp
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\csi.exe
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\csi.exe.config
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\csi.rsp
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.AppContext.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Collections.Immutable.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Console.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.Process.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.IO.Compression.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.IO.Pipes.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.AccessControl.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Claims.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Threading.Thread.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.ValueTuple.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XPath.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\vbc.exe
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\vbc.exe.config
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\vbc.rsp
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\VBCSCompiler.exe
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\roslyn\VBCSCompiler.exe.config
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\CommonServiceLocator.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\EntityFramework.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\EntityFramework.SqlServer.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Interface.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Manager.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Model.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\GEE.Common.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Microsoft.Web.Infrastructure.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Newtonsoft.Json.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\NLog.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\System.Net.Http.Formatting.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\System.ValueTuple.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\System.Web.Http.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\System.Web.Http.WebHost.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Unity.Abstractions.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Unity.AspNet.WebApi.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Unity.Configuration.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Unity.Container.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Unity.Interception.Configuration.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Unity.Interception.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Unity.RegistrationByConvention.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Unity.ServiceLocation.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\WebActivatorEx.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\AutoMapper.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\GEE.DataAccess.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Interface.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Manager.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Model.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\GEE.Common.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\CommonServiceLocator.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\EntityFramework.xml
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\EntityFramework.SqlServer.xml
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\NLog.xml
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\System.ValueTuple.xml
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Unity.Configuration.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Unity.Interception.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Unity.Interception.Configuration.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Unity.RegistrationByConvention.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Unity.ServiceLocation.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Newtonsoft.Json.xml
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\System.Net.Http.Formatting.xml
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\System.Web.Http.xml
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\System.Web.Http.WebHost.xml
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\AutoMapper.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\AutoMapper.xml
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\GEE.DataAccess.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.API\bin\GEE.DataAccess.dll.config
+C:\GEE\Dev\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csprojAssemblyReference.cache
+C:\GEE\Dev\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csproj.CoreCompileInputs.cache
+C:\GEE\Dev\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csproj.CopyComplete
+C:\GEE\Dev\GlobalEduERP\GEE.API\obj\Debug\GEE.API.dll
+C:\GEE\Dev\GlobalEduERP\GEE.API\obj\Debug\GEE.API.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.API.dll.config
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.API.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.API.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\csc.exe
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\csc.exe.config
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\csc.rsp
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\csi.exe
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\csi.exe.config
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\csi.rsp
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.AppContext.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Collections.Immutable.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Console.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.Process.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.IO.Compression.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.IO.Pipes.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.AccessControl.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Claims.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Threading.Thread.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.ValueTuple.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XPath.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\vbc.exe
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\vbc.exe.config
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\vbc.rsp
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\VBCSCompiler.exe
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\VBCSCompiler.exe.config
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\CommonServiceLocator.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\EntityFramework.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\EntityFramework.SqlServer.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Interface.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Manager.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Model.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.Common.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Microsoft.Web.Infrastructure.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Newtonsoft.Json.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\NLog.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\System.Net.Http.Formatting.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\System.ValueTuple.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\System.Web.Http.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\System.Web.Http.WebHost.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.Abstractions.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.AspNet.WebApi.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.Configuration.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.Container.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.Interception.Configuration.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.Interception.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.RegistrationByConvention.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.ServiceLocation.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\WebActivatorEx.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\AutoMapper.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.DataAccess.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Interface.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Manager.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Model.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.Common.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\CommonServiceLocator.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\EntityFramework.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\EntityFramework.SqlServer.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\NLog.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\System.ValueTuple.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.Configuration.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.Interception.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.Interception.Configuration.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.RegistrationByConvention.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.ServiceLocation.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\System.Net.Http.Formatting.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\System.Web.Http.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\System.Web.Http.WebHost.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\AutoMapper.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\AutoMapper.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.DataAccess.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.DataAccess.dll.config
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csprojAssemblyReference.cache
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csproj.CoreCompileInputs.cache
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csproj.CopyComplete
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\obj\Debug\GEE.API.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.API\obj\Debug\GEE.API.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.API.dll.config
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.API.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.API.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\csc.exe
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\csc.exe.config
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\csc.rsp
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\csi.exe
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\csi.exe.config
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\csi.rsp
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.AppContext.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Console.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Claims.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\vbc.exe
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\vbc.exe.config
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\vbc.rsp
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\CommonServiceLocator.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\EntityFramework.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Interface.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Manager.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Model.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.Common.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Newtonsoft.Json.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\NLog.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\System.ValueTuple.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\System.Web.Http.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.Abstractions.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.AspNet.WebApi.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.Configuration.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.Container.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.Interception.Configuration.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.Interception.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.RegistrationByConvention.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.ServiceLocation.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\WebActivatorEx.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\AutoMapper.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.DataAccess.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Interface.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Manager.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.Business.Model.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.Common.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\CommonServiceLocator.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\EntityFramework.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\NLog.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\System.ValueTuple.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.Configuration.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.Interception.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.Interception.Configuration.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Unity.ServiceLocation.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\System.Web.Http.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\AutoMapper.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\AutoMapper.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.DataAccess.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\bin\GEE.DataAccess.dll.config
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csprojAssemblyReference.cache
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csproj.CopyComplete
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\obj\Debug\GEE.API.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.API\obj\Debug\GEE.API.pdb
+D:\GEE New\GlobalEduERP\GEE.API\bin\GEE.API.dll.config
+D:\GEE New\GlobalEduERP\GEE.API\bin\GEE.API.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\GEE.API.pdb
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\csc.exe
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\csc.exe.config
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\csc.rsp
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\csi.exe
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\csi.exe.config
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\csi.rsp
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.AppContext.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Collections.Immutable.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Console.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.Process.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.IO.Compression.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.IO.Pipes.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Security.AccessControl.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Claims.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Threading.Thread.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.ValueTuple.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XPath.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\vbc.exe
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\vbc.exe.config
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\vbc.rsp
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\VBCSCompiler.exe
+D:\GEE New\GlobalEduERP\GEE.API\bin\roslyn\VBCSCompiler.exe.config
+D:\GEE New\GlobalEduERP\GEE.API\bin\CommonServiceLocator.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\EntityFramework.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\EntityFramework.SqlServer.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\GEE.Business.Interface.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\GEE.Business.Manager.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\GEE.Business.Model.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\GEE.Common.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\Microsoft.Web.Infrastructure.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\Newtonsoft.Json.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\NLog.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\System.Net.Http.Formatting.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\System.ValueTuple.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\System.Web.Cors.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\System.Web.Http.Cors.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\System.Web.Http.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\System.Web.Http.WebHost.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\Unity.Abstractions.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\Unity.AspNet.WebApi.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\Unity.Configuration.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\Unity.Container.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\Unity.Interception.Configuration.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\Unity.Interception.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\Unity.RegistrationByConvention.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\Unity.ServiceLocation.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\WebActivatorEx.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\AutoMapper.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\GEE.DataAccess.dll
+D:\GEE New\GlobalEduERP\GEE.API\bin\GEE.Business.Interface.pdb
+D:\GEE New\GlobalEduERP\GEE.API\bin\GEE.Business.Manager.pdb
+D:\GEE New\GlobalEduERP\GEE.API\bin\GEE.Business.Model.pdb
+D:\GEE New\GlobalEduERP\GEE.API\bin\GEE.Common.pdb
+D:\GEE New\GlobalEduERP\GEE.API\bin\CommonServiceLocator.pdb
+D:\GEE New\GlobalEduERP\GEE.API\bin\EntityFramework.xml
+D:\GEE New\GlobalEduERP\GEE.API\bin\EntityFramework.SqlServer.xml
+D:\GEE New\GlobalEduERP\GEE.API\bin\NLog.xml
+D:\GEE New\GlobalEduERP\GEE.API\bin\System.Net.Http.Formatting.xml
+D:\GEE New\GlobalEduERP\GEE.API\bin\System.ValueTuple.xml
+D:\GEE New\GlobalEduERP\GEE.API\bin\System.Web.Http.xml
+D:\GEE New\GlobalEduERP\GEE.API\bin\System.Web.Http.Cors.xml
+D:\GEE New\GlobalEduERP\GEE.API\bin\Unity.Configuration.pdb
+D:\GEE New\GlobalEduERP\GEE.API\bin\Unity.Interception.pdb
+D:\GEE New\GlobalEduERP\GEE.API\bin\Unity.Interception.Configuration.pdb
+D:\GEE New\GlobalEduERP\GEE.API\bin\Unity.RegistrationByConvention.pdb
+D:\GEE New\GlobalEduERP\GEE.API\bin\Unity.ServiceLocation.pdb
+D:\GEE New\GlobalEduERP\GEE.API\bin\System.Web.Http.WebHost.xml
+D:\GEE New\GlobalEduERP\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GEE New\GlobalEduERP\GEE.API\bin\AutoMapper.pdb
+D:\GEE New\GlobalEduERP\GEE.API\bin\AutoMapper.xml
+D:\GEE New\GlobalEduERP\GEE.API\bin\GEE.DataAccess.pdb
+D:\GEE New\GlobalEduERP\GEE.API\bin\GEE.DataAccess.dll.config
+D:\GEE New\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csprojAssemblyReference.cache
+D:\GEE New\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csproj.CoreCompileInputs.cache
+D:\GEE New\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csproj.CopyComplete
+D:\GEE New\GlobalEduERP\GEE.API\obj\Debug\GEE.API.dll
+D:\GEE New\GlobalEduERP\GEE.API\obj\Debug\GEE.API.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\GEE.API.dll.config
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\GEE.API.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\GEE.API.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\csc.exe
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\csc.exe.config
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\csc.rsp
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\csi.exe
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\csi.exe.config
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\csi.rsp
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.AppContext.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Collections.Immutable.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Console.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.Process.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.IO.Compression.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.IO.Pipes.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Reflection.Metadata.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Security.AccessControl.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Claims.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Threading.Thread.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.ValueTuple.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XPath.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\vbc.exe
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\vbc.exe.config
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\vbc.rsp
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\VBCSCompiler.exe
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\roslyn\VBCSCompiler.exe.config
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\CommonServiceLocator.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\EntityFramework.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\EntityFramework.SqlServer.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\GEE.Business.Interface.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\GEE.Business.Manager.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\GEE.Business.Model.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\GEE.Common.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\Microsoft.Web.Infrastructure.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\NLog.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\System.Net.Http.Formatting.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\System.ValueTuple.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\System.Web.Cors.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\System.Web.Http.Cors.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\System.Web.Http.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\System.Web.Http.WebHost.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\Unity.Abstractions.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\Unity.AspNet.WebApi.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\Unity.Configuration.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\Unity.Container.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\Unity.Interception.Configuration.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\Unity.Interception.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\Unity.RegistrationByConvention.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\Unity.ServiceLocation.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\WebActivatorEx.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\AutoMapper.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\GEE.DataAccess.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\GEE.Business.Interface.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\GEE.Business.Manager.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\GEE.Business.Model.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\GEE.Common.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\CommonServiceLocator.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\EntityFramework.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\EntityFramework.SqlServer.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\NLog.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\System.Net.Http.Formatting.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\System.ValueTuple.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\System.Web.Http.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\System.Web.Http.Cors.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\Unity.Configuration.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\Unity.Interception.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\Unity.Interception.Configuration.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\Unity.RegistrationByConvention.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\Unity.ServiceLocation.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\System.Web.Http.WebHost.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\AutoMapper.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\AutoMapper.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\bin\GEE.DataAccess.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\obj\Debug\GEE.API.csprojResolveAssemblyReference.cache
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\obj\Debug\GEE.API.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.API\obj\Debug\GEE.API.pdb

@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GEEModelStoreContainer" CdmEntityContainer="GEEDbContext">
+    <EntitySetMapping Name="AcademicYears">
+      <EntityTypeMapping TypeName="GEEModel.AcademicYear">
+        <MappingFragment StoreEntitySet="AcademicYear">
+          <ScalarProperty Name="AcademicYear_ID" ColumnName="AcademicYear_ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ShortName" ColumnName="ShortName" />
+          <ScalarProperty Name="FromDate" ColumnName="FromDate" />
+          <ScalarProperty Name="ToDate" ColumnName="ToDate" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AdmissionDetails">
+      <EntityTypeMapping TypeName="GEEModel.AdmissionDetail">
+        <MappingFragment StoreEntitySet="AdmissionDetail">
+          <ScalarProperty Name="Admission_ID" ColumnName="Admission_ID" />
+          <ScalarProperty Name="AdmissionNumber" ColumnName="AdmissionNumber" />
+          <ScalarProperty Name="Enquiry_ID" ColumnName="Enquiry_ID" />
+          <ScalarProperty Name="Approvedby_ID" ColumnName="Approvedby_ID" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AdmissionDocumentLists">
+      <EntityTypeMapping TypeName="GEEModel.AdmissionDocumentList">
+        <MappingFragment StoreEntitySet="AdmissionDocumentList">
+          <ScalarProperty Name="AdmissionDocumentList_ID" ColumnName="AdmissionDocumentList_ID" />
+          <ScalarProperty Name="DocumentCode" ColumnName="DocumentCode" />
+          <ScalarProperty Name="DocumentName" ColumnName="DocumentName" />
+          <ScalarProperty Name="IsDigital" ColumnName="IsDigital" />
+          <ScalarProperty Name="IsMandatory" ColumnName="IsMandatory" />
+          <ScalarProperty Name="ToFollow" ColumnName="ToFollow" />
+          <ScalarProperty Name="FollowupTypeCode" ColumnName="FollowupTypeCode" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Applications">
+      <EntityTypeMapping TypeName="GEEModel.Application">
+        <MappingFragment StoreEntitySet="Application">
+          <ScalarProperty Name="Application_ID" ColumnName="Application_ID" />
+          <ScalarProperty Name="Enquiry_ID" ColumnName="Enquiry_ID" />
+          <ScalarProperty Name="ApplicaitonNo" ColumnName="ApplicaitonNo" />
+          <ScalarProperty Name="IsSubmitted" ColumnName="IsSubmitted" />
+          <ScalarProperty Name="SubmitDate" ColumnName="SubmitDate" />
+          <ScalarProperty Name="IsOnline" ColumnName="IsOnline" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CandidateDetails">
+      <EntityTypeMapping TypeName="GEEModel.CandidateDetail">
+        <MappingFragment StoreEntitySet="CandidateDetail">
+          <ScalarProperty Name="CandidateDetail_ID" ColumnName="CandidateDetail_ID" />
+          <ScalarProperty Name="Enquiry_ID" ColumnName="Enquiry_ID" />
+          <ScalarProperty Name="AdmissionClass_id" ColumnName="AdmissionClass_id" />
+          <ScalarProperty Name="LastPassClass_ID" ColumnName="LastPassClass_ID" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+          <ScalarProperty Name="Lastname" ColumnName="Lastname" />
+          <ScalarProperty Name="DOB" ColumnName="DOB" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="StudentType_ID" ColumnName="StudentType_ID" />
+          <ScalarProperty Name="ContactMobileNo" ColumnName="ContactMobileNo" />
+          <ScalarProperty Name="HomePhone" ColumnName="HomePhone" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Nationality" ColumnName="Nationality" />
+          <ScalarProperty Name="hasSibiling" ColumnName="hasSibiling" />
+          <ScalarProperty Name="SiblingAdmNumber_ID" ColumnName="SiblingAdmNumber_ID" />
+          <ScalarProperty Name="Address1" ColumnName="Address1" />
+          <ScalarProperty Name="Address2" ColumnName="Address2" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="State_ID" ColumnName="State_ID" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="PinCode" ColumnName="PinCode" />
+          <ScalarProperty Name="Landmark" ColumnName="Landmark" />
+          <ScalarProperty Name="DistanceFromSchool" ColumnName="DistanceFromSchool" />
+          <ScalarProperty Name="Caste_ID" ColumnName="Caste_ID" />
+          <ScalarProperty Name="Religon_ID" ColumnName="Religon_ID" />
+          <ScalarProperty Name="FatheFirstName" ColumnName="FatheFirstName" />
+          <ScalarProperty Name="FatherMiddleName" ColumnName="FatherMiddleName" />
+          <ScalarProperty Name="FatherLasttName" ColumnName="FatherLasttName" />
+          <ScalarProperty Name="FatherQualificaiton_ID" ColumnName="FatherQualificaiton_ID" />
+          <ScalarProperty Name="FatherQualificaitonText" ColumnName="FatherQualificaitonText" />
+          <ScalarProperty Name="FatherOccupation" ColumnName="FatherOccupation" />
+          <ScalarProperty Name="FatherOfficeAddres" ColumnName="FatherOfficeAddres" />
+          <ScalarProperty Name="FatherOrgnisation" ColumnName="FatherOrgnisation" />
+          <ScalarProperty Name="FatherDesignation" ColumnName="FatherDesignation" />
+          <ScalarProperty Name="MotherFirstName" ColumnName="MotherFirstName" />
+          <ScalarProperty Name="MotherMiddleName" ColumnName="MotherMiddleName" />
+          <ScalarProperty Name="MotherLasttName" ColumnName="MotherLasttName" />
+          <ScalarProperty Name="MotherQualificaiton_Id" ColumnName="MotherQualificaiton_Id" />
+          <ScalarProperty Name="MotherQualificaitonText" ColumnName="MotherQualificaitonText" />
+          <ScalarProperty Name="MotherOccupation" ColumnName="MotherOccupation" />
+          <ScalarProperty Name="MotherOfficeAddres" ColumnName="MotherOfficeAddres" />
+          <ScalarProperty Name="MotherOrgnisation" ColumnName="MotherOrgnisation" />
+          <ScalarProperty Name="MotherDesignation" ColumnName="MotherDesignation" />
+          <ScalarProperty Name="CurrentSchool" ColumnName="CurrentSchool" />
+          <ScalarProperty Name="CurrentSchoolCity" ColumnName="CurrentSchoolCity" />
+          <ScalarProperty Name="IsGovtTransfer" ColumnName="IsGovtTransfer" />
+          <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+          <ScalarProperty Name="CommunicationMode" ColumnName="CommunicationMode" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CastCategories">
+      <EntityTypeMapping TypeName="GEEModel.CastCategory">
+        <MappingFragment StoreEntitySet="CastCategory">
+          <ScalarProperty Name="CastCategory_ID" ColumnName="CastCategory_ID" />
+          <ScalarProperty Name="CategoryCode" ColumnName="CategoryCode" />
+          <ScalarProperty Name="CategoryDetail" ColumnName="CategoryDetail" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ClassMasters">
+      <EntityTypeMapping TypeName="GEEModel.ClassMaster">
+        <MappingFragment StoreEntitySet="ClassMaster">
+          <ScalarProperty Name="Class_ID" ColumnName="Class_ID" />
+          <ScalarProperty Name="ClassCode" ColumnName="ClassCode" />
+          <ScalarProperty Name="ClassSeq" ColumnName="ClassSeq" />
+          <ScalarProperty Name="ClassName" ColumnName="ClassName" />
+          <ScalarProperty Name="TotalSections" ColumnName="TotalSections" />
+          <ScalarProperty Name="SectionsSequence" ColumnName="SectionsSequence" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Designations">
+      <EntityTypeMapping TypeName="GEEModel.Designation">
+        <MappingFragment StoreEntitySet="Designation">
+          <ScalarProperty Name="Test_sam" ColumnName="Test_sam" />
+          <ScalarProperty Name="Designation_ID" ColumnName="Designation_ID" />
+          <ScalarProperty Name="DesigCode" ColumnName="DesigCode" />
+          <ScalarProperty Name="DesigName" ColumnName="DesigName" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DocumentSubmissions">
+      <EntityTypeMapping TypeName="GEEModel.DocumentSubmission">
+        <MappingFragment StoreEntitySet="DocumentSubmission">
+          <ScalarProperty Name="DocumentSub_ID" ColumnName="DocumentSub_ID" />
+          <ScalarProperty Name="Document_ID" ColumnName="Document_ID" />
+          <ScalarProperty Name="Enquiry_Id" ColumnName="Enquiry_Id" />
+          <ScalarProperty Name="Application_ID" ColumnName="Application_ID" />
+          <ScalarProperty Name="SubmissionDate" ColumnName="SubmissionDate" />
+          <ScalarProperty Name="PathofDocument" ColumnName="PathofDocument" />
+          <ScalarProperty Name="PhysicalFileLocaiton" ColumnName="PhysicalFileLocaiton" />
+          <ScalarProperty Name="SumissionMethod" ColumnName="SumissionMethod" />
+          <ScalarProperty Name="OnlineDocumentVerified" ColumnName="OnlineDocumentVerified" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Enquiries">
+      <EntityTypeMapping TypeName="GEEModel.Enquiry">
+        <MappingFragment StoreEntitySet="Enquiry">
+          <ScalarProperty Name="Enquiry_ID" ColumnName="Enquiry_ID" />
+          <ScalarProperty Name="EnquiryNo" ColumnName="EnquiryNo" />
+          <ScalarProperty Name="MarketSource_ID" ColumnName="MarketSource_ID" />
+          <ScalarProperty Name="EnquiryType_ID" ColumnName="EnquiryType_ID" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EnquiryTypes">
+      <EntityTypeMapping TypeName="GEEModel.EnquiryType">
+        <MappingFragment StoreEntitySet="EnquiryType">
+          <ScalarProperty Name="EnquiryType_ID" ColumnName="EnquiryType_ID" />
+          <ScalarProperty Name="EnquiryCode" ColumnName="EnquiryCode" />
+          <ScalarProperty Name="EnquiryName" ColumnName="EnquiryName" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GroupMasters">
+      <EntityTypeMapping TypeName="GEEModel.GroupMaster">
+        <MappingFragment StoreEntitySet="GroupMaster">
+          <ScalarProperty Name="Group_ID" ColumnName="Group_ID" />
+          <ScalarProperty Name="GroupCode" ColumnName="GroupCode" />
+          <ScalarProperty Name="GroupName" ColumnName="GroupName" />
+          <ScalarProperty Name="Address1" ColumnName="Address1" />
+          <ScalarProperty Name="Address2" ColumnName="Address2" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="State_ID" ColumnName="State_ID" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="PinCode" ColumnName="PinCode" />
+          <ScalarProperty Name="Landmark" ColumnName="Landmark" />
+          <ScalarProperty Name="GroupEmail" ColumnName="GroupEmail" />
+          <ScalarProperty Name="GroupOwner" ColumnName="GroupOwner" />
+          <ScalarProperty Name="OwnerMobile" ColumnName="OwnerMobile" />
+          <ScalarProperty Name="GrouplPhone" ColumnName="GrouplPhone" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Languages">
+      <EntityTypeMapping TypeName="GEEModel.Language">
+        <MappingFragment StoreEntitySet="Languages">
+          <ScalarProperty Name="Languages_ID" ColumnName="Languages_ID" />
+          <ScalarProperty Name="LangCode" ColumnName="LangCode" />
+          <ScalarProperty Name="LangName" ColumnName="LangName" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LoginTracks">
+      <EntityTypeMapping TypeName="GEEModel.LoginTrack">
+        <MappingFragment StoreEntitySet="LoginTrack">
+          <ScalarProperty Name="Track_ID" ColumnName="Track_ID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="IPAddress" ColumnName="IPAddress" />
+          <ScalarProperty Name="LoginTime" ColumnName="LoginTime" />
+          <ScalarProperty Name="LogoutTime" ColumnName="LogoutTime" />
+          <ScalarProperty Name="MacAddress" ColumnName="MacAddress" />
+          <ScalarProperty Name="latitudeLongitude" ColumnName="latitudeLongitude" />
+          <ScalarProperty Name="DeviceType" ColumnName="DeviceType" />
+          <ScalarProperty Name="DeviceName" ColumnName="DeviceName" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MarketingSources">
+      <EntityTypeMapping TypeName="GEEModel.MarketingSource">
+        <MappingFragment StoreEntitySet="MarketingSource">
+          <ScalarProperty Name="MarketingSource_ID" ColumnName="MarketingSource_ID" />
+          <ScalarProperty Name="MarketingCode" ColumnName="MarketingCode" />
+          <ScalarProperty Name="MarketingDetails" ColumnName="MarketingDetails" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Qualificatons">
+      <EntityTypeMapping TypeName="GEEModel.Qualificaton">
+        <MappingFragment StoreEntitySet="Qualificaton">
+          <ScalarProperty Name="Qualificaton_ID" ColumnName="Qualificaton_ID" />
+          <ScalarProperty Name="QualificationCode" ColumnName="QualificationCode" />
+          <ScalarProperty Name="QualificationDetail" ColumnName="QualificationDetail" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Registrations">
+      <EntityTypeMapping TypeName="GEEModel.Registration">
+        <MappingFragment StoreEntitySet="Registration">
+          <ScalarProperty Name="Registration_ID" ColumnName="Registration_ID" />
+          <ScalarProperty Name="Enquiry_ID" ColumnName="Enquiry_ID" />
+          <ScalarProperty Name="RegistrationNo" ColumnName="RegistrationNo" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Religions">
+      <EntityTypeMapping TypeName="GEEModel.Religion">
+        <MappingFragment StoreEntitySet="Religion">
+          <ScalarProperty Name="Religion_ID" ColumnName="Religion_ID" />
+          <ScalarProperty Name="ReligionCode" ColumnName="ReligionCode" />
+          <ScalarProperty Name="ReligionName" ColumnName="ReligionName" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SchoolMasters">
+      <EntityTypeMapping TypeName="GEEModel.SchoolMaster">
+        <MappingFragment StoreEntitySet="SchoolMaster">
+          <ScalarProperty Name="School_ID" ColumnName="School_ID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="SchoolCode" ColumnName="SchoolCode" />
+          <ScalarProperty Name="SchoolName" ColumnName="SchoolName" />
+          <ScalarProperty Name="Address1" ColumnName="Address1" />
+          <ScalarProperty Name="Address2" ColumnName="Address2" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="State_ID" ColumnName="State_ID" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="PinCode" ColumnName="PinCode" />
+          <ScalarProperty Name="Landmark" ColumnName="Landmark" />
+          <ScalarProperty Name="SchoolEmail" ColumnName="SchoolEmail" />
+          <ScalarProperty Name="SchoolOwner" ColumnName="SchoolOwner" />
+          <ScalarProperty Name="OwnerMobile" ColumnName="OwnerMobile" />
+          <ScalarProperty Name="SchoolPrincipal" ColumnName="SchoolPrincipal" />
+          <ScalarProperty Name="SchoolPhone" ColumnName="SchoolPhone" />
+          <ScalarProperty Name="BillingStart" ColumnName="BillingStart" />
+          <ScalarProperty Name="ISActive" ColumnName="ISActive" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Subjects">
+      <EntityTypeMapping TypeName="GEEModel.Subject">
+        <MappingFragment StoreEntitySet="Subject">
+          <ScalarProperty Name="Subject_ID" ColumnName="Subject_ID" />
+          <ScalarProperty Name="SubjectCode" ColumnName="SubjectCode" />
+          <ScalarProperty Name="SubjectAbbr" ColumnName="SubjectAbbr" />
+          <ScalarProperty Name="SubjectName" ColumnName="SubjectName" />
+          <ScalarProperty Name="IsScholastic" ColumnName="IsScholastic" />
+          <ScalarProperty Name="IsPractical" ColumnName="IsPractical" />
+          <ScalarProperty Name="CGPAIncluded" ColumnName="CGPAIncluded" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="GEEModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserMasters">
+      <EntityTypeMapping TypeName="GEEModel.UserMaster">
+        <MappingFragment StoreEntitySet="UserMaster">
+          <ScalarProperty Name="User_ID" ColumnName="User_ID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="Lastname" ColumnName="Lastname" />
+          <ScalarProperty Name="Role" ColumnName="Role" />
+          <ScalarProperty Name="Sessionyear" ColumnName="Sessionyear" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy_ID" ColumnName="CreatedBy_ID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy_ID" ColumnName="ModifiedBy_ID" />
+          <ScalarProperty Name="SchoolID" ColumnName="SchoolID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="ISDeleted" ColumnName="ISDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblSizes">
+      <EntityTypeMapping TypeName="GEEModel.tblSize">
+        <MappingFragment StoreEntitySet="tblSize">
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="UpdatedOn" ColumnName="UpdatedOn" />
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="UnitID" ColumnName="UnitID" />
+          <ScalarProperty Name="SizeDescription" ColumnName="SizeDescription" />
+          <ScalarProperty Name="SizeName" ColumnName="SizeName" />
+          <ScalarProperty Name="SizeID" ColumnName="SizeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TestTables">
+      <EntityTypeMapping TypeName="GEEModel.TestTable">
+        <MappingFragment StoreEntitySet="TestTable">
+          <ScalarProperty Name="Class" ColumnName="Class" />
+          <ScalarProperty Name="Test_Name" ColumnName="Test_Name" />
+          <ScalarProperty Name="TestID" ColumnName="TestID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblUnits">
+      <EntityTypeMapping TypeName="GEEModel.tblUnit">
+        <MappingFragment StoreEntitySet="tblUnit">
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="UnitID" ColumnName="UnitID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

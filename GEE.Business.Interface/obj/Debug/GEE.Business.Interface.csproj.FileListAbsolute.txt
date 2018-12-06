@@ -1,0 +1,111 @@
+D:\GlobalEduERP\Business.Interface\bin\Debug\GEE.Business.Interface.dll
+D:\GlobalEduERP\Business.Interface\bin\Debug\GEE.Business.Interface.pdb
+D:\GlobalEduERP\Business.Interface\bin\Debug\GEE.Business.Model.dll
+D:\GlobalEduERP\Business.Interface\bin\Debug\GEE.Common.dll
+D:\GlobalEduERP\Business.Interface\bin\Debug\GEE.Business.Model.pdb
+D:\GlobalEduERP\Business.Interface\bin\Debug\GEE.Common.pdb
+D:\GlobalEduERP\Business.Interface\obj\Debug\GEE.Business.Interface.csprojAssemblyReference.cache
+D:\GlobalEduERP\Business.Interface\obj\Debug\GEE.Business.Interface.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP\Business.Interface\obj\Debug\GEE.Business.Interface.csproj.CopyComplete
+D:\GlobalEduERP\Business.Interface\obj\Debug\GEE.Business.Interface.dll
+D:\GlobalEduERP\Business.Interface\obj\Debug\GEE.Business.Interface.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Interface.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Interface.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Model.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Common.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Model.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Common.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csprojAssemblyReference.cache
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csproj.CopyComplete
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Interface.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Interface.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Model.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Common.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Interface\bin\Debug\NLog.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Model.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Common.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Interface\bin\Debug\NLog.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csprojAssemblyReference.cache
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csproj.CopyComplete
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.pdb
+D:\gg\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Interface.dll
+D:\gg\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Interface.pdb
+D:\gg\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Model.dll
+D:\gg\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Common.dll
+D:\gg\GlobalEduERP\GEE.Business.Interface\bin\Debug\NLog.dll
+D:\gg\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Model.pdb
+D:\gg\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Common.pdb
+D:\gg\GlobalEduERP\GEE.Business.Interface\bin\Debug\NLog.xml
+D:\gg\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csprojAssemblyReference.cache
+D:\gg\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csproj.CoreCompileInputs.cache
+D:\gg\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csproj.CopyComplete
+D:\gg\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.dll
+D:\gg\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Interface.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Interface.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Model.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Common.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\NLog.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Model.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Common.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\NLog.xml
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csprojAssemblyReference.cache
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csproj.CoreCompileInputs.cache
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csproj.CopyComplete
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Interface.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Interface.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Model.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Common.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\NLog.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Model.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Common.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\NLog.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csprojAssemblyReference.cache
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csproj.CoreCompileInputs.cache
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csproj.CopyComplete
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Interface.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Interface.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Model.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Common.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\NLog.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Model.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Common.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\bin\Debug\NLog.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csprojAssemblyReference.cache
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csproj.CopyComplete
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Interface.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Interface.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Model.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Common.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Debug\NLog.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Model.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Common.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Debug\NLog.xml
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csprojAssemblyReference.cache
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csproj.CoreCompileInputs.cache
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csproj.CopyComplete
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Interface.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Interface.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Model.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Common.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Debug\NLog.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Business.Model.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Debug\GEE.Common.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Interface\bin\Debug\NLog.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.csprojResolveAssemblyReference.cache
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Interface\obj\Debug\GEE.Business.Interface.pdb

@@ -1,0 +1,46 @@
+D:\GlobalEduERP\BusinessEntities\bin\Debug\GEE.Business.Model.dll
+D:\GlobalEduERP\BusinessEntities\bin\Debug\GEE.Business.Model.pdb
+D:\GlobalEduERP\BusinessEntities\obj\Debug\GEE.Business.Model.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP\BusinessEntities\obj\Debug\GEE.Business.Model.dll
+D:\GlobalEduERP\BusinessEntities\obj\Debug\GEE.Business.Model.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Models\bin\Debug\GEE.Business.Model.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Models\bin\Debug\GEE.Business.Model.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Models\bin\Debug\GEE.Business.Model.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Models\bin\Debug\GEE.Business.Model.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.pdb
+D:\gg\GlobalEduERP\GEE.Business.Models\bin\Debug\GEE.Business.Model.dll
+D:\gg\GlobalEduERP\GEE.Business.Models\bin\Debug\GEE.Business.Model.pdb
+D:\gg\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.csproj.CoreCompileInputs.cache
+D:\gg\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.dll
+D:\gg\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Models\bin\Debug\GEE.Business.Model.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Models\bin\Debug\GEE.Business.Model.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.csproj.CoreCompileInputs.cache
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Models\bin\Debug\GEE.Business.Model.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Models\bin\Debug\GEE.Business.Model.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.csproj.CoreCompileInputs.cache
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Models\bin\Debug\GEE.Business.Model.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Models\bin\Debug\GEE.Business.Model.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.csprojAssemblyReference.cache
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Models\bin\Debug\GEE.Business.Model.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Models\bin\Debug\GEE.Business.Model.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.csproj.CoreCompileInputs.cache
+D:\GEE New\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.dll
+D:\GEE New\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.pdb
+D:\GEE New\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.csprojAssemblyReference.cache
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Models\bin\Debug\GEE.Business.Model.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Models\bin\Debug\GEE.Business.Model.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Business.Models\obj\Debug\GEE.Business.Model.pdb

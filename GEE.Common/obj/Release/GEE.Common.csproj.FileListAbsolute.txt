@@ -1,0 +1,11 @@
+D:\GEE New\GlobalEduERP\GEE.Common\bin\Release\GEE.Common.dll
+D:\GEE New\GlobalEduERP\GEE.Common\bin\Release\GEE.Common.pdb
+D:\GEE New\GlobalEduERP\GEE.Common\bin\Release\NLog.dll
+D:\GEE New\GlobalEduERP\GEE.Common\bin\Release\System.ValueTuple.dll
+D:\GEE New\GlobalEduERP\GEE.Common\bin\Release\NLog.xml
+D:\GEE New\GlobalEduERP\GEE.Common\bin\Release\System.ValueTuple.xml
+D:\GEE New\GlobalEduERP\GEE.Common\obj\Release\GEE.Common.csprojAssemblyReference.cache
+D:\GEE New\GlobalEduERP\GEE.Common\obj\Release\GEE.Common.csproj.CoreCompileInputs.cache
+D:\GEE New\GlobalEduERP\GEE.Common\obj\Release\GEE.Common.csproj.CopyComplete
+D:\GEE New\GlobalEduERP\GEE.Common\obj\Release\GEE.Common.dll
+D:\GEE New\GlobalEduERP\GEE.Common\obj\Release\GEE.Common.pdb

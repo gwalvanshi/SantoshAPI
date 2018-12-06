@@ -1,0 +1,81 @@
+D:\GlobalEduERP\Common\bin\Debug\GEE.Common.dll
+D:\GlobalEduERP\Common\bin\Debug\GEE.Common.pdb
+D:\GlobalEduERP\Common\obj\Debug\GEE.Common.csprojAssemblyReference.cache
+D:\GlobalEduERP\Common\obj\Debug\GEE.Common.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP\Common\obj\Debug\GEE.Common.dll
+D:\GlobalEduERP\Common\obj\Debug\GEE.Common.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.Common\bin\Debug\GEE.Common.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.Common\bin\Debug\GEE.Common.pdb
+D:\GlobalEduERP\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.dll
+D:\GlobalEduERP\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Common\bin\Debug\GEE.Common.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Common\bin\Debug\GEE.Common.pdb
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Common\bin\Debug\NLog.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Common\bin\Debug\System.ValueTuple.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Common\bin\Debug\NLog.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Common\bin\Debug\System.ValueTuple.xml
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.csproj.CoreCompileInputs.cache
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.csproj.CopyComplete
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.dll
+D:\GlobalEduERP_V4\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.pdb
+D:\gg\GlobalEduERP\GEE.Common\bin\Debug\GEE.Common.dll
+D:\gg\GlobalEduERP\GEE.Common\bin\Debug\GEE.Common.pdb
+D:\gg\GlobalEduERP\GEE.Common\bin\Debug\NLog.dll
+D:\gg\GlobalEduERP\GEE.Common\bin\Debug\System.ValueTuple.dll
+D:\gg\GlobalEduERP\GEE.Common\bin\Debug\NLog.xml
+D:\gg\GlobalEduERP\GEE.Common\bin\Debug\System.ValueTuple.xml
+D:\gg\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.csproj.CoreCompileInputs.cache
+D:\gg\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.csproj.CopyComplete
+D:\gg\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.dll
+D:\gg\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.Common\bin\Debug\GEE.Common.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Common\bin\Debug\GEE.Common.pdb
+C:\GEE\Dev\GlobalEduERP\GEE.Common\bin\Debug\NLog.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Common\bin\Debug\System.ValueTuple.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Common\bin\Debug\NLog.xml
+C:\GEE\Dev\GlobalEduERP\GEE.Common\bin\Debug\System.ValueTuple.xml
+C:\GEE\Dev\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.csproj.CoreCompileInputs.cache
+C:\GEE\Dev\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.csproj.CopyComplete
+C:\GEE\Dev\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.dll
+C:\GEE\Dev\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Common\bin\Debug\GEE.Common.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Common\bin\Debug\GEE.Common.pdb
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Common\bin\Debug\NLog.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Common\bin\Debug\System.ValueTuple.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Common\bin\Debug\NLog.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Common\bin\Debug\System.ValueTuple.xml
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.csproj.CoreCompileInputs.cache
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.csproj.CopyComplete
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.dll
+D:\GEE\branches\Dev\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Common\bin\Debug\GEE.Common.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Common\bin\Debug\GEE.Common.pdb
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Common\bin\Debug\NLog.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Common\bin\Debug\System.ValueTuple.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Common\bin\Debug\NLog.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Common\bin\Debug\System.ValueTuple.xml
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.csprojAssemblyReference.cache
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.csproj.CopyComplete
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.dll
+C:\Users\Pankaj\Downloads\GEE\GEE\branches\Dev\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.pdb
+D:\GEE New\GlobalEduERP\GEE.Common\bin\Debug\GEE.Common.dll
+D:\GEE New\GlobalEduERP\GEE.Common\bin\Debug\GEE.Common.pdb
+D:\GEE New\GlobalEduERP\GEE.Common\bin\Debug\NLog.dll
+D:\GEE New\GlobalEduERP\GEE.Common\bin\Debug\System.ValueTuple.dll
+D:\GEE New\GlobalEduERP\GEE.Common\bin\Debug\NLog.xml
+D:\GEE New\GlobalEduERP\GEE.Common\bin\Debug\System.ValueTuple.xml
+D:\GEE New\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.csproj.CoreCompileInputs.cache
+D:\GEE New\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.csproj.CopyComplete
+D:\GEE New\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.dll
+D:\GEE New\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.pdb
+D:\GEE New\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.csprojAssemblyReference.cache
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Common\bin\Debug\GEE.Common.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Common\bin\Debug\GEE.Common.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Common\bin\Debug\NLog.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Common\bin\Debug\System.ValueTuple.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Common\bin\Debug\NLog.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Common\bin\Debug\System.ValueTuple.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP\GEE.Common\obj\Debug\GEE.Common.pdb
